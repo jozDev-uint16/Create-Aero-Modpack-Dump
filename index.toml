@@ -2189,6 +2189,11 @@ hash = "71cdfa52571bfb59bbef8c31628ff1f508033cda051ed6645d834f25dea4830b"
 metafile = true
 
 [[files]]
+file = "mods/chestpack-backpacks.pw.toml"
+hash = "e11483d28db937495cdcf4dbc29be8be892b186667c2315d7ff71fa4991fd6a1"
+metafile = true
+
+[[files]]
 file = "mods/chunky-pregenerator-forge.pw.toml"
 hash = "7be63eaec6a70605f2f21cc30f0889fb27978c2e2fe62ee4584210502289e77d"
 metafile = true
@@ -2231,6 +2236,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "a489c33879941ccb524c52fb81927adf3d3c8b156064c7a5be5bf8dc8caf63c9"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
 metafile = true
 
 [[files]]
@@ -2514,6 +2524,11 @@ hash = "9f18a709b7834e52436d19e5e7fe051fdf1d1d6dad6632ce5415c6f5a707ce74"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "67a1f2166177db175eeb9dbd8dd085c6180fbaac6669f07c2cdb9c10efe8da9a"
 metafile = true
@@ -2559,8 +2574,18 @@ hash = "32b9515e4f9a0ccbf91f88e67ef33319aab272e12e09e0c6b227d7be8238bfee"
 metafile = true
 
 [[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
+metafile = true
+
+[[files]]
 file = "mods/numismatics.pw.toml"
 hash = "56a7c2e0893f18bcb34206b85a90b1be84267e5783f53f602320ad40b36e201d"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
 metafile = true
 
 [[files]]
@@ -2581,6 +2606,11 @@ metafile = true
 [[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "79c1e8f90db5559d703ab7a43227573d74a8de59232c6c8bee348a582967e741"
+metafile = true
+
+[[files]]
+file = "mods/patpat.pw.toml"
+hash = "7115ef60f5b686f40076508ce15549ab60de65068d3d116d3cd6ec78a5e85606"
 metafile = true
 
 [[files]]

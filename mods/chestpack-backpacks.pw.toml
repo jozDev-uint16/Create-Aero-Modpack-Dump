@@ -1,0 +1,13 @@
+name = "Chestpack Backpacks"
+filename = "chestpack-backpacks-1.5-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7eHfwFEy/versions/2xlDl5Ld/chestpack-backpacks-1.5-1.21.jar"
+hash-format = "sha512"
+hash = "77114990ea55c29ede706d6f48766260fe5dfb187516c6df63645f23179d90cfe7a3df2f648fda5ef4ff7e50d4feaf2a166222a86a7437c7f1713793641e8b64"
+
+[update]
+[update.modrinth]
+mod-id = "7eHfwFEy"
+version = "2xlDl5Ld"
