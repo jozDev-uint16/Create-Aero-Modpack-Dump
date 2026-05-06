@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "0df939af7d81bfa83e90fb85ca299cc132876a052a15c0aa1eadb69856534c25"
+
+[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
@@ -65,6 +69,10 @@ file = "config/betterdays-common.toml"
 hash = "03e4858e141353192b4616f179003be4086cca2a4c22aa37872f610ac6285573"
 
 [[files]]
+file = "config/betterf3.toml"
+hash = "126196445c452be36b2f2ca41053ecf43d5209d8d39158d45126eb4424aa8bd3"
+
+[[files]]
 file = "config/bocchium-client.toml"
 hash = "347b1615a5c3ee2dfc0d3b76c221881ac941e6dcdfb0ed2d02dc7e85104e0e55"
 
@@ -87,6 +95,10 @@ hash = "47a015989efd4754fbf33a225f07328998919fde0a2b388c6fdf8316f38bf19a"
 [[files]]
 file = "config/burnt_basic.json"
 hash = "e31544015692e36a9ffb3680b05279a5bd4ccbb37e787a8145534ae8dd6c5cc9"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/carryon-client.toml"
@@ -118,7 +130,7 @@ hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
 
 [[files]]
 file = "config/chunky/tasks/minecraft/overworld.properties"
-hash = "7e2ae23df2261be2b15ad8a12a90b791dc963213d4b0409ab6c6c6804b7c3182"
+hash = "b99bc09bd659ce4711c52820f58c639defa6f7365ef4b8e5800ed669b8734b7b"
 
 [[files]]
 file = "config/clean_tooltips-client.toml"
@@ -127,6 +139,14 @@ hash = "0c3233fa6a68043261ca316e112f16c18fa4c1612047fdc7292c717bb1a77c33"
 [[files]]
 file = "config/colorwheel-client.toml"
 hash = "a7d87ab03d61fecad6d297bcad9976c9e48765ca67f90b3c388419c2a70b452e"
+
+[[files]]
+file = "config/connector.json"
+hash = "67bee06b2b321ed25e0d4e9b5bac7ab76c8ae76442de6caf11f463ce2ae1ac5e"
+
+[[files]]
+file = "config/connectorextras_energy_bridge-common.toml"
+hash = "2960bccd52230cb571c760ba9122ec1f4b21b5079f977700d4ac03f1518aef6d"
 
 [[files]]
 file = "config/copycats-client.toml"
@@ -141,6 +161,10 @@ file = "config/copycats-server.toml"
 hash = "3a2e328d298b0ef379673beffa566eda2d92b4f1d0e00425573b59f0ea66e646"
 
 [[files]]
+file = "config/corpse-server.toml"
+hash = "806dc2002f95b1bcd16dec843051abc513576a1986ea1931d8c2cc82aef201c7"
+
+[[files]]
 file = "config/crash_assistant/config.toml"
 hash = "e1dcfa8995e135b744e6605ba54bad94eaae6ef98e01c9118507856f2748e015"
 
@@ -150,7 +174,7 @@ hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "3061d3bb02c738494ff40d1bae16a9f29be89afbd57d026109936faf16651e2a"
+hash = "e43a2da4f9398827f9c59045f9498251893e0addd1333901fb45ad5564e31845"
 
 [[files]]
 file = "config/crash_assistant/scripts/log_analysis/example.jexl"
@@ -265,6 +289,10 @@ file = "config/emixx/emixx-client.toml"
 hash = "f5e9f31056fc5d75d0be6a03e6994f59bea9b3380770b74a57a6413c37e1f3b5"
 
 [[files]]
+file = "config/emixx/groups/minecraft__creeper_igniters.json"
+hash = "898f132ee59f9f2bd7003a4933f7fbaf8ef2ef3fd029854d08bbe1d6054181ef"
+
+[[files]]
 file = "config/encumbered-client.toml"
 hash = "57ac975102f67ebe2a2b5d92540aa4757761b8fa87d0518ed396e3d3d9f97052"
 
@@ -303,6 +331,10 @@ hash = "f437a2bff2337eecc996f8d0d17d348403eae070045dfbd37065c6fcb79ce6ce"
 [[files]]
 file = "config/exposure-server.toml"
 hash = "a4e7d2d6bac537024dda0a613d6edfbb114cb4971e692e010cf5a43cb743e675"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "fa05389f062007503fd6d976cbc26647385c858d47d9253e2faf73af73835213"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -374,7 +406,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "ce0328f6732cc4cd610b40d320ca9f08757d0ef62574a9889c7c79ec19c146b7"
+hash = "db5a230cdbff8c3968afb51c76828e9e900fd81426934d1046f271ba9265a823"
 
 [[files]]
 file = "config/jei-server.toml"
@@ -434,7 +466,7 @@ hash = "eb6d83b30e2639c98d327e5c7a0f35699f56b42c4f3ec79e9fc7026e08c4189f"
 
 [[files]]
 file = "config/map_atlases-client.toml"
-hash = "b30ba53d2bbc356d56087389cada0894967b932683b1b7c7278c3a56f6fef0c0"
+hash = "1878a06c78fa2e3c2e6d0c2a3fe545ffd39824a33115ac247063de2c733ecd7d"
 
 [[files]]
 file = "config/map_atlases-common.toml"
@@ -449,12 +481,16 @@ file = "config/mod_menu-client.toml"
 hash = "23f4eef6416246091965cd2459a50dca56e57a2c01fc2f9354f0c09efddf4d75"
 
 [[files]]
+file = "config/modelfix-client.toml"
+hash = "ae36e7199d4138e363e1565fbb8059984ca0b4f037a3cda7cfc4c15443862db0"
+
+[[files]]
 file = "config/modernfix-common.toml"
 hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "fd6926771b5b75eb3385a886515d1b86b9c48cea32aab2d076648b17027e9b25"
+hash = "9352e12603c8aaa96f28e105ad16a1fa05fa9cd397b36b0d924f9508fc2105c5"
 
 [[files]]
 file = "config/molten_vents-common.toml"
@@ -537,12 +573,20 @@ file = "config/neoforge-server.toml"
 hash = "b1e3b38d612295f8d9dfa0fbdb538a992b7a1a3b7a766c491b4e9fdf3823396f"
 
 [[files]]
+file = "config/nerb/compat/emi.yaml"
+hash = "cc73592e208680c42f5c4e761e55cf394f241ae9e2f1b5e05049805493bf5d0c"
+
+[[files]]
+file = "config/nerb/general.yaml"
+hash = "ec614cafa950e8fb5c77d497a8bb0b0fa44b8f88c0a0b7767515fdb94f116340"
+
+[[files]]
 file = "config/northstar-client.toml"
 hash = "75d7f950abca0664f657c757cbd35135bd0e30f576a976120e1742ad6e2a90ed"
 
 [[files]]
 file = "config/northstar-common.toml"
-hash = "e854c8ff4deb4267e08c5e8b1399772da15fb9d7c1f493394afb977672c3a054"
+hash = "9ef65b08f97c1d5a6076e6cca618464650c479f91b99ae233b6413a564f90957"
 
 [[files]]
 file = "config/northstar-server.toml"
@@ -595,6 +639,10 @@ hash = "e6431e11544b305ab0e641dc3c40e4afcc328c923e759687fd1a7a8342661f83"
 [[files]]
 file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/brewinandchewin/recipe/pizza_from_dough.json"
 hash = "82bd20ca95bc8fe85684d662fe79e27e513e9f21fc95e2b3dd1fbe7aed798a01"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/c/tags/item/tools/igniter.json"
+hash = "58b695365f4e9ff8e0ba291108496ec27198b5038df7c0c5b5bf000eefb2acbf"
 
 [[files]]
 file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/create/recipe/brass_ingot_from_lava.json"
@@ -941,6 +989,10 @@ file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/tags/f
 hash = "fc424e35781af322e655807be390efb39f4a4e4d6fcf613bd2714dfafb56ec5e"
 
 [[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/tags/item/creeper_igniters.json"
+hash = "8ec055c9b069d04d050b4eeb17ae36299186729a1509a8bc7c8bdd52323a0ff6"
+
+[[files]]
 file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/biome/end_midlands.json"
 hash = "1f0d3bf88f3654a0d95573a2977e34c4e5aec7a44672e6498ac10dfc55b2468a"
 
@@ -1243,6 +1295,10 @@ hash = "368a88f25b5dc3de5888e690520fc79d01ef8ab527f65db2bd6449c2f19e9633"
 [[files]]
 file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/tfmg/recipe/crafting/tools/steel_sword.json"
 hash = "87fdd745a4fcbbb73c29f411942c1a2aacf5fe9d3a3c85ca93a2f1960c4ef49b"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/unkindled/tags/item/self_igniting_fuel.json"
+hash = "a399e8421be738cdcfe15680df25ec710f4b9314f378af6baeb08fd9c9e378af"
 
 [[files]]
 file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/advancement/nether/obtain_nether_star.json"
@@ -1918,7 +1974,7 @@ hash = "6d42e7f3443246e2102bd1a29cfe6a13c7733ca0d8a45b8a1bc65512d346a406"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "b13f91bd131d358bfe938dddce1285941c02d83530ba32646cee6f7272e359f0"
+hash = "df1109d59760cd2a6d2b845605d50733ad88de0e911461cb0e493c51beb68db2"
 
 [[files]]
 file = "config/sodium-extra.properties"
@@ -2078,11 +2134,11 @@ hash = "19e2055f741eef98031f43be18b89bb69e9880ed65d190013896660a21b7d1fa"
 
 [[files]]
 file = "config/waila/waila.json5"
-hash = "ed44d6cf16f35a61a653a47c0788358164f62c5e70ba09af9073c42b19112d91"
+hash = "b257576cd67589f8d515e801bb5b38aa4b9b41e67bd1831e5bc43fecf56ff64c"
 
 [[files]]
 file = "config/waila/waila_plugins.json5"
-hash = "a4a3576cd51c9bb5ed23d0bac81a2309d65ed9c854fa2891a169e55bf1feb53a"
+hash = "bc16248ee03323b48fd0bcb53cd94940d58b89f2c2183e136c8b6b4581cfa191"
 
 [[files]]
 file = "config/watut-client.toml"
@@ -2190,7 +2246,7 @@ metafile = true
 
 [[files]]
 file = "mods/chestpack-backpacks.pw.toml"
-hash = "e11483d28db937495cdcf4dbc29be8be892b186667c2315d7ff71fa4991fd6a1"
+hash = "34a9a710a1853c029ebdab79eec300258bb55566296c6538182851e9bac13981"
 metafile = true
 
 [[files]]
@@ -2240,7 +2296,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse.pw.toml"
-hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
+hash = "c5896918c7bf007b8355020319c3f6532ad6bae457f74a27a58e7b1a8c1d58b1"
 metafile = true
 
 [[files]]
@@ -2525,7 +2581,7 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
+hash = "6e1b5a63dddb53d1e5d911174237350a07ceb07a655027172c07057a2f7ba2cf"
 metafile = true
 
 [[files]]
@@ -2575,7 +2631,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
-hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
+hash = "8bebd314bb8852d6dc021975359694b9d197a54d19326e3bee7ac531ace6180a"
 metafile = true
 
 [[files]]
@@ -2585,7 +2641,7 @@ metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
-hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
+hash = "18dae8eb1bdb5c8c7f858b1569dfe1cd2a48812b5db18f05ed04e7ba9d4599ef"
 metafile = true
 
 [[files]]
@@ -2610,7 +2666,7 @@ metafile = true
 
 [[files]]
 file = "mods/patpat.pw.toml"
-hash = "7115ef60f5b686f40076508ce15549ab60de65068d3d116d3cd6ec78a5e85606"
+hash = "f21fbd6b41c18ff3fd046f0e718d21237ca742c19fb60c99d5001d5aaa238acc"
 metafile = true
 
 [[files]]

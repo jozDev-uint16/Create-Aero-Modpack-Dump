@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#c:buckets/lava",
+    "#c:rods/blaze",
+    "minecraft:torch"
+  ]
+}

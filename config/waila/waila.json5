@@ -104,7 +104,36 @@
     // Default value: [§8%s]
     registryName: "§8%s",
     // 
-    styles: {}
+    styles: {
+      // 
+      "§f%s": {
+        // 
+        color: {
+          // 
+          value: 16777215,
+          // 
+          name: "white"
+        },
+        // 
+        bold: false,
+        // 
+        italic: false,
+        // 
+        underlined: false,
+        // 
+        strikethrough: false,
+        // 
+        obfuscated: false,
+        // 
+        clickEvent: null,
+        // 
+        hoverEvent: null,
+        // 
+        insertion: null,
+        // 
+        font: null
+      }
+    }
   },
   keyBinds: {
     // Open Config

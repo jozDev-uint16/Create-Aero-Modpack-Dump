@@ -1,4 +1,9 @@
 {
+  ubesdelight: {
+    // Punch Bowl Servings
+    // Default value: [true]
+    punchbowl_servings: true
+  },
   waila: {
     // Show Blocks
     // Default value: [true]
@@ -233,11 +238,6 @@
     // Show on Creative
     // Default value: [false]
     creative: false
-  },
-  ubesdelight: {
-    // Punch Bowl Servings
-    // Default value: [true]
-    punchbowl_servings: true
   },
   wailax: {
     // Show Block Energy

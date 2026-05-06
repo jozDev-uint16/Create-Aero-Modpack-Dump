@@ -27,7 +27,7 @@
 	#An integer which will offset the mini-map vertically
 	# Default: 0
 	# Range: -4000 ~ 4000
-	vertical_offset = 0
+	vertical_offset = 8
 	#The number of pixels to shift vertically when there's an active effect
 	# Default: 26
 	# Range: -4000 ~ 4000
@@ -65,9 +65,9 @@
 	#Shows map separation borders
 	map_borders = true
 	#Use sky color for minimap
-	darken_at_night = false
+	darken_at_night = true
 	#Plays page turn sound when current active map changes. Works best when paired with no rotation and no player follow
-	map_change_sound = false
+	map_change_sound = true
 	#Automatically switches to the nearest slice when possible
 	automatic_slice_change = false
 
