@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"key": {
+		"#": {
+			"tag": "forge:plates/iron"
+		}
+	},
+	"pattern": [
+		"# #",
+		"###"
+	],
+	"result": {
+		"id": "minecraft:minecart"
+	},
+	"show_notification": true
+}

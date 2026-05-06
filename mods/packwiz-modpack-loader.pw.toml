@@ -1,0 +1,13 @@
+name = "Packwiz Modpack Loader"
+filename = "packwizml-3.1.0+1.21.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/gJUTDRJj/versions/ziurCuG6/packwizml-3.1.0%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "6c3abae486b8c31e0fa8a65945294a4f51cc8873086828ea2181c9d11081ed0fedaa30ee687614994a14cfcb6a8a1e8168a945a933af1cc88151f0c902ff2b02"
+
+[update]
+[update.modrinth]
+mod-id = "gJUTDRJj"
+version = "ziurCuG6"

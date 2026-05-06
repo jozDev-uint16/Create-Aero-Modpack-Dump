@@ -1,0 +1,15 @@
+[
+  {
+    "_comment": "Example — replace with real block IDs for your mod. Delete this entry when done.",
+    "name": "malum_soulwood",
+    "logs": [
+      "malum:soulwood_log",
+      "malum:exposed_soulwood_log",
+      "malum:stripped_soulwood_log"
+    ],
+    "leaves": [
+      "malum:soulwood_leaves"
+    ],
+    "decorations": []
+  }
+]

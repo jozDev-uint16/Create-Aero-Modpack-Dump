@@ -1,0 +1,14 @@
+#The height where teleport to space occurs
+# Default: 300
+# Range: 256 ~ 2000
+teleportHeight = 1500
+#A list of items to log on common setup.
+space_dimensions = ["minecraft:overworld", "minecraft:the_end"]
+#A list of items to log on common setup.
+planet_names = ["Earth", "Moon"]
+#A list of items to log on common setup.
+planets_x_pos = [0, 0]
+#A list of items to log on common setup.
+planets_z_pos = [0, 4000]
+#A list of items to log on common setup.
+planets_texture = ["textures/block/packed_ice.png", "textures/block/netherrack.png"]

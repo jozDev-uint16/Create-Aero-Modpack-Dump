@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "minecraft:lava",
+      "amount": 50
+    },
+    {
+      "tag": "forge:nuggets/copper"
+    },
+    {
+      "tag": "forge:nuggets/zinc"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:brass_nugget",
+      "count": 2
+    }
+  ]
+}

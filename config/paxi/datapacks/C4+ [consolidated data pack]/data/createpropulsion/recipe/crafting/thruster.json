@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SPS",
+        "SMS",
+        " C "
+    ],
+    "key": {
+        "S": {
+            "item": "create:copper_sheet"
+        },
+        "P": {
+            "item": "tfmg:turbine_engine"
+        },
+        "M": {
+            "item": "create:precision_mechanism"
+        },
+        "C": {
+            "item": "create:chute"
+        }
+    },
+    "result": {
+        "id": "createpropulsion:thruster"
+    }
+}

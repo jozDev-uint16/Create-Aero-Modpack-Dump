@@ -1,0 +1,13 @@
+name = "Endercon"
+filename = "endercon-3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "614625c6d7fb939528c02fcf777325481d90515c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7860067
+project-id = 1127816

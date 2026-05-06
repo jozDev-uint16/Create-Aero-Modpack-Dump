@@ -1,0 +1,13 @@
+name = "Encumbered (Player Weight)"
+filename = "encumbered-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a1e780f7a1dece3cdf8064dabc6a4921a98a8a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6303678
+project-id = 1051179

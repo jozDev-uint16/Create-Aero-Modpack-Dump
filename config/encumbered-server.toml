@@ -1,0 +1,61 @@
+[encumberance]
+	# Threshold 1 (Encumbered)
+	# Debuffs: cannot sprint
+	# Default: 50.0
+	threshold1 = 250.0
+	# Threshold 2 (Overencumbered)
+	# Debuffs: cannot sprint, jump, or swim and movement speed is decreased
+	# Default: 100.0
+	threshold2 = 400.0
+
+[debufs]
+	# Disable Sinking Debuf When Overencumbered
+	# Default: false
+	disablesinkingdebuf = false
+	# Disable Sprinting Debuf When Encumbered and Overencumbered
+	# Default: false
+	disablesprintingdebuf = false
+
+[multipliers]
+	# Set the jump strength
+	# This sets the jump strength when you are Overencumbered. 0 means you can't jump at all. Default minecraft jump strength is 0.41999998688697815
+	# Default: 0
+	jumpstrength = 0.0
+	# Set the movement speed
+	# This sets the movement speed when you are Overencumbered. Default minecraft movement speed is 0.10000000149011612
+	# Default: 0.025
+	movementspeed = 0.025
+
+[thresholds]
+	# Decide Which Threshold Entities are disabled or enabled
+	# Options:
+	# 0: No restrictions; can use entity freely, no modifications made.
+	# 1: Riding is disabled for the entity at threshold 1 and above.
+	# 2: Riding is disabled for the entity at threshold 2 and above.
+	# Horse
+	# Default: 2
+	horsethreshold = 2
+	# Donkey
+	# Default: 2
+	donkeythreshold = 2
+	# Mule
+	# Default: 2
+	mulethreshold = 2
+	# Camel
+	# Default: 2
+	camelthreshold = 2
+	# Boat
+	# Default: 2
+	boatthreshold = 2
+	# Pig
+	# Default: 2
+	pigthreshold = 2
+	# Strider
+	# Default: 2
+	striderthreshold = 2
+	# Minecart
+	# Default: 0
+	minecartthreshold = 0
+	# Elytra
+	# Default: 1
+	elytrathreshold = 1

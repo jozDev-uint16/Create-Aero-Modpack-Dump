@@ -1,0 +1,13 @@
+name = "Talk Balloons [Forge | Fabric | NeoForge]"
+filename = "talk_balloons-neoforge-1.4.1+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0139be01c6e292ed8dcbb733f0b98887da687bc0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7362312
+project-id = 992601

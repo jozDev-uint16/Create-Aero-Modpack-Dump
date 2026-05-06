@@ -1,0 +1,31 @@
+{
+  "forge:conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "id": "create:wheat_flour"
+    },
+    {
+      "id": "create:wheat_flour"
+    },
+    {
+      "id": "create:wheat_flour"
+    },
+    {
+      "type": "fluid_tag",
+      "amount": 250,
+      "fluid_tag": "c:milk"
+    }
+  ],
+  "results": [
+    {
+      "id": "farmersdelight:pie_crust",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+    "display": {
+      "icon": {
+        "id": "minecraft:nether_star"
+      },
+      "title": "To the Beginning",
+      "description": "Defeat the Wither and obtain a Nether Star",
+      "frame": "challenge",
+      "show_toast": false,
+      "announce_to_chat": true
+    },
+    "parent": "minecraft:nether/summon_wither",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": "minecraft:nether_star"
+            }
+          ]
+        }
+      }
+    }
+  }
+  

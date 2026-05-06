@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "minecraft:lava",
+      "amount": 250
+    },
+    {
+      "tag": "forge:ingots/copper"
+    },
+    {
+      "tag": "forge:ingots/zinc"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:brass_ingot",
+      "count": 2
+    }
+  ]
+}

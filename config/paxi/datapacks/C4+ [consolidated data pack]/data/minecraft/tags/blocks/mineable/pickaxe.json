@@ -1,0 +1,20 @@
+{
+    "values": [
+        {
+        "id": "spelunkery:granite_zinc_ore",
+        "required": true
+        },
+        {
+        "id": "spelunkery:diorite_zinc_ore",
+        "required": true
+        },
+        {
+        "id": "spelunkery:andesite_zinc_ore",
+        "required": true
+        },
+        {
+        "id": "spelunkery:tuff_zinc_ore",
+        "required": true
+        }
+    ]
+}

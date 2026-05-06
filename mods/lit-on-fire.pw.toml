@@ -1,0 +1,13 @@
+name = "Lit on fire"
+filename = "lit_on_fire-1.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b64742f534901d1b6788b9e84e0025df9d0def6f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6637897
+project-id = 1156815

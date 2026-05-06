@@ -1,0 +1,17 @@
+[gui]
+	# Change the X position of the anvil icon
+	# positive numbers move it right, negative numbers move it left
+	# Default: 0
+	anvilxoffset = 0
+	# Change the Y position of the anvil icon
+	# positive numbers move it up, negative numbers move it down
+	# Default: 0
+	anvilyoffset = 15
+	# Change the X position of the weight text
+	# positive numbers move it right, negative numbers move it left
+	# Default: 0
+	weightxoffset = 0
+	# Change the Y position of the weight text
+	# positive numbers move it up, negative numbers move it down
+	# Default: 0
+	weightyoffset = 15

@@ -1,0 +1,2773 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/CoroUtil/General.toml"
+hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
+
+[[files]]
+file = "config/DistantHorizons.toml"
+hash = "12956a544738d576cfb7b2af08e6b5fb38e77a9af780aa076dd987713ea89449"
+
+[[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/aeronautics-server.toml"
+hash = "a9302b0253e494e7d80f0a2785bf4514b0b67da85796437ca032482db62be514"
+
+[[files]]
+file = "config/alltheleaks.json"
+hash = "2437057bda7e53d91e7a8c400da308a8d848fbdcc80ed845a9c8dbdabd071482"
+
+[[files]]
+file = "config/almostunified/debug.json"
+hash = "435ad46870d033c8652097d64c6ec592907e5ab6f1877240532a6a1743d4fca5"
+
+[[files]]
+file = "config/almostunified/duplicates.json"
+hash = "b70f57eadf6eec0ce43acd4c441f08feac1432826e04cb8e2736a73997c20c08"
+
+[[files]]
+file = "config/almostunified/placeholders.json"
+hash = "43733b207b9f0238c7a5bec47f19e8fd5bec80499b286e0ac4994671702dfed9"
+
+[[files]]
+file = "config/almostunified/startup.json"
+hash = "37f013c49586db025c17f9fa6657c6f239e0169ebc97ef682ff114a2ede43c5e"
+
+[[files]]
+file = "config/almostunified/tags.json"
+hash = "2512b9c947342813ee667013941f07c3be8323ac4cb8d3d1686dd8530c7c66b1"
+
+[[files]]
+file = "config/almostunified/unification/materials.json"
+hash = "aeedd65c113ba7e1442e4106f0ca0f95728f4addd39ae90a84f50aff2de7c538"
+
+[[files]]
+file = "config/asyncparticles/asyncparticles-mixin.properties"
+hash = "e9357727a21f7988957dfb5bfc1f08779a6418e888332c0e1f47ead71b0c5abe"
+
+[[files]]
+file = "config/asyncparticles/asyncparticles.json"
+hash = "4fcd2e17f0face495859dacffa77d0bb03d3cb4f86958478ed9fcce3edeabeb5"
+
+[[files]]
+file = "config/badoptimizations.txt"
+hash = "cae5ba66971b2f61e0b523c5aeb8b8d4fa806f0bea8a1709860e4fea94426ac9"
+
+[[files]]
+file = "config/betterdays-client.toml"
+hash = "730b13a15e01a03825fc40477758799ed8801c783d9cf829867c43c1b08f7ad9"
+
+[[files]]
+file = "config/betterdays-common.toml"
+hash = "03e4858e141353192b4616f179003be4086cca2a4c22aa37872f610ac6285573"
+
+[[files]]
+file = "config/bocchium-client.toml"
+hash = "347b1615a5c3ee2dfc0d3b76c221881ac941e6dcdfb0ed2d02dc7e85104e0e55"
+
+[[files]]
+file = "config/bountiful/bountiful.json"
+hash = "eeead79d2c51bca73a1174aeadd2cef9c12feea8ae8083121c15e47b0563ebc0"
+
+[[files]]
+file = "config/bountiful/errors.log"
+hash = "c06d09cde5780b5dbad844c65276e2ec5892e3dadfb57fda2b3c27650aa37f3c"
+
+[[files]]
+file = "config/brewinandchewin-client.toml"
+hash = "8e7861a1c13f1169b024f17922e99eed9e7b2c9799c949c00c51ebda216e56f9"
+
+[[files]]
+file = "config/brewinandchewin-common.toml"
+hash = "47a015989efd4754fbf33a225f07328998919fde0a2b388c6fdf8316f38bf19a"
+
+[[files]]
+file = "config/burnt_basic.json"
+hash = "e31544015692e36a9ffb3680b05279a5bd4ccbb37e787a8145534ae8dd6c5cc9"
+
+[[files]]
+file = "config/carryon-client.toml"
+hash = "865a366143df5f4d92941058c823ea48deb8445f6444b45e870331b16a444f0f"
+
+[[files]]
+file = "config/carryon-common.toml"
+hash = "80f73b76cea4c7947c0a750b9567b0af2f905bc32d310beaae4cdc63efcc473b"
+
+[[files]]
+file = "config/celestria.json"
+hash = "9761e0385fe8f8b88fba70b631c284a36e474f7776c57f921664d2ed35bc1be8"
+
+[[files]]
+file = "config/chat_heads.json5"
+hash = "e198750061411cf7fca624e38b894ca104ca2cf2c2940da0409ce4240dcc2503"
+
+[[files]]
+file = "config/chatanimation.json"
+hash = "de5bb1061dcd48c3378f6849658940a465c3e094e5d6c342c5f73ea984da2a8b"
+
+[[files]]
+file = "config/chloride-client.json"
+hash = "098a1182587da73ea6b280087d050f9d4156c60f07fc6a695904fca021ec95b5"
+
+[[files]]
+file = "config/chunky/config.json"
+hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
+
+[[files]]
+file = "config/chunky/tasks/minecraft/overworld.properties"
+hash = "7e2ae23df2261be2b15ad8a12a90b791dc963213d4b0409ab6c6c6804b7c3182"
+
+[[files]]
+file = "config/clean_tooltips-client.toml"
+hash = "0c3233fa6a68043261ca316e112f16c18fa4c1612047fdc7292c717bb1a77c33"
+
+[[files]]
+file = "config/colorwheel-client.toml"
+hash = "a7d87ab03d61fecad6d297bcad9976c9e48765ca67f90b3c388419c2a70b452e"
+
+[[files]]
+file = "config/copycats-client.toml"
+hash = "381f51308cca7e8aaa1aebb9253a6be686f74ebc70d4da39dd7750d2ca2e9598"
+
+[[files]]
+file = "config/copycats-common.toml"
+hash = "4554d0df9a25e4f58c07df938806bb435fa2556263b60537bcd8f3f3cd28f1c3"
+
+[[files]]
+file = "config/copycats-server.toml"
+hash = "3a2e328d298b0ef379673beffa566eda2d92b4f1d0e00425573b59f0ea66e646"
+
+[[files]]
+file = "config/crash_assistant/config.toml"
+hash = "e1dcfa8995e135b744e6605ba54bad94eaae6ef98e01c9118507856f2748e015"
+
+[[files]]
+file = "config/crash_assistant/crash_assistant_localization_overrides/README.md"
+hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
+
+[[files]]
+file = "config/crash_assistant/modlist.json"
+hash = "3061d3bb02c738494ff40d1bae16a9f29be89afbd57d026109936faf16651e2a"
+
+[[files]]
+file = "config/crash_assistant/scripts/log_analysis/example.jexl"
+hash = "adde7e5e42b9d716f14a9bc49797999a21a0ee05cc67e71410a232f830115b3b"
+
+[[files]]
+file = "config/crash_assistant/scripts/startup/example.jexl"
+hash = "346378f04a9e7319cdcb405fad82d6e7f1b36b39e0e4129c00a226b49f41cf37"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "cce3eab1a290cc1f0eada00031f0577f661f883aee3438cf1139283c65d1f319"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "36216a05f3ed63106ba587c8c24ed6315385829e7f3dae695dcf545aba41a270"
+
+[[files]]
+file = "config/create_jetpack-client.toml"
+hash = "89094f05746ba946d303ca7fd7888094c34165b4af507317e081b6c9b5f7ecc3"
+
+[[files]]
+file = "config/create_jetpack-common.toml"
+hash = "1177996d40fc3be7b7716d2594874ac48b64d890ac82a88b41c88aff89a02567"
+
+[[files]]
+file = "config/createbigcannons-client.toml"
+hash = "dd1fabf921549ecaf23fc0cdb5eee8ab766c963671693dc29e5402bb2b4baf83"
+
+[[files]]
+file = "config/createbigcannons-server.toml"
+hash = "ffa79d44e4dc4407cebb841058b5fde911566fd5c0d0b8869f1374e254eb98ca"
+
+[[files]]
+file = "config/createdynlight-client-1.toml.bak"
+hash = "64154e12024e091d6946f99b6b8ed89c1d163192af767d0873259cfcacee4500"
+
+[[files]]
+file = "config/createdynlight-client.toml"
+hash = "1a83004fb3cd30fcf947beccf007280dc19b195ae504711375d4065a7827f9a7"
+
+[[files]]
+file = "config/createdynlight-server.toml"
+hash = "0d33cc877b08f3f3cbcb5db499153be52578512f3ac76ce0dd38e18d07ecc150"
+
+[[files]]
+file = "config/creategoggles-client.toml"
+hash = "a7388317bf092e58a7a4aee6bf6ee22f6a2ae5adaabff30e6ca07b3260eeee42"
+
+[[files]]
+file = "config/creategoggles-common.toml"
+hash = "674d0b72918889f050aeac9d59890f35330c833df1c93b35dd4a797020a43c40"
+
+[[files]]
+file = "config/createpropulsion-client.toml"
+hash = "3361b4b420e01f1b30ee3b753853c70409f9d71175bc58e407f9da1c61efa6c9"
+
+[[files]]
+file = "config/createpropulsion-server.toml"
+hash = "daa5486b2087a2c8b75aa3298c48e61ccafe17ae7e17c3ee2d99a3b8ef733bb2"
+
+[[files]]
+file = "config/creatingspace-client.toml"
+hash = "70ce02357f465d5fe3a05a2ac369fa736030b59edf806b5d83ba167869965bed"
+
+[[files]]
+file = "config/creatingspace-common.toml"
+hash = "1befdc24b14d891c7d4f0e1be2ab8413f86e2817f698ee64ea7fd028c0ea7f86"
+
+[[files]]
+file = "config/creatingspace-server.toml"
+hash = "a5cb3d00e27451592baef64119fc4fbdc6052ae34d136cb8c31d7893002b8dd3"
+
+[[files]]
+file = "config/cupboard.json"
+hash = "937698438af081495eebab187013f66570218e1443f35db8a2ca0b4cb6d9638b"
+
+[[files]]
+file = "config/danger_close-common.toml"
+hash = "c03298b308474e4c462678b45a4eeb45dd00e11e0d93c8398708232d65e6913a"
+
+[[files]]
+file = "config/durabilitytooltip-common.toml"
+hash = "2f33433f38df628bf545b76e0ae5babe3efe1ad08dae14b6077a44c768072d7f"
+
+[[files]]
+file = "config/dynamictrees-common.toml"
+hash = "f9227389a441f4884e8e8e0140a620f088f7b4fd20e2dc58c9abf2ebc5a3df44"
+
+[[files]]
+file = "config/dynamictrees-server.toml"
+hash = "23ffa2a5bf7726374c99db762fbd676f7335c7346a97a685a4a49058f0ed125f"
+
+[[files]]
+file = "config/dynamicview.json"
+hash = "305841828cd7218dd650fc2f48f01039cbfb8a914143cd79ffe11f96f31888fd"
+
+[[files]]
+file = "config/e4mc/e4mc.toml"
+hash = "3967d3b931472a818bdb8430414c324f40f2441132fafc029fef95f89507cc8e"
+
+[[files]]
+file = "config/emi.css"
+hash = "9fa24b9307a960428865fddf89bf18ad0659141055e918cd113a3e510a2d2b7f"
+
+[[files]]
+file = "config/emixx/emixx-client.toml"
+hash = "f5e9f31056fc5d75d0be6a03e6994f59bea9b3380770b74a57a6413c37e1f3b5"
+
+[[files]]
+file = "config/encumbered-client.toml"
+hash = "57ac975102f67ebe2a2b5d92540aa4757761b8fa87d0518ed396e3d3d9f97052"
+
+[[files]]
+file = "config/encumbered-server.toml"
+hash = "c9082c148391c279d08e5042582a7352fa231f72570f963a46a4b0d3d8239cfe"
+
+[[files]]
+file = "config/entity_model_features.json"
+hash = "c633e3370aa256a71ab45aec68683a2ec4b29b6c5c2dfd430f9788a854ccf920"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "d8d72a9ac49bbe45921f1ace5a22c30b65802c5e70829343cf7acfd25f79b8dc"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "ceb5b3624c3269bef037b2914da8ab0d1c368abdd466156292a5d82db8803b0e"
+
+[[files]]
+file = "config/etf_warnings.json"
+hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
+
+[[files]]
+file = "config/exmi/enable_config.json"
+hash = "915f23f69f114854e4e067dc463b2f71370cf8d291c0611decf50655f5054e47"
+
+[[files]]
+file = "config/exposure-client.toml"
+hash = "cd8c2d6ef4dd823580b0e735f3f0049d5be109928520ec7e1d72f8668a16afef"
+
+[[files]]
+file = "config/exposure-common.toml"
+hash = "f437a2bff2337eecc996f8d0d17d348403eae070045dfbd37065c6fcb79ce6ce"
+
+[[files]]
+file = "config/exposure-server.toml"
+hash = "a4e7d2d6bac537024dda0a613d6edfbb114cb4971e692e010cf5a43cb743e675"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+hash = "a8cdc0376674d522d92d977cac5800d00c6f70ea62ea83dea59595fb232b8e3e"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "0cc639f1ce8ab5e63f754ab41be3ab09398fd149de6d0b5edc476034e3ed8b06"
+
+[[files]]
+file = "config/farsight.json"
+hash = "98a9f53e1e21247108a90e80b9cf4141fd7b432e219a262672ffedd5730afbab"
+
+[[files]]
+file = "config/fastitems.json"
+hash = "32bc555e44c611fda82ac37e5fd395bdfe6397687b82141b95a73c0da18cbed5"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "1356f9d52b2dcb2afa5a593e53c286d9c1c3778a6f8b1cf761953b185b7dce78"
+
+[[files]]
+file = "config/firstperson.json"
+hash = "6d9d8a3708ccf453fb710f4e10591cedd4d1767acde97c7da7bbc2cd2c4d4101"
+
+[[files]]
+file = "config/flerovium.json"
+hash = "566a6c273c8d4854691a6829f20c433215e8a1b8f8fa01fd2ee394d5a54c9a24"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "49414280350d38397bb99dc9f721e07e8d3d17920094455f08ae10079d460d9a"
+
+[[files]]
+file = "config/fml.toml"
+hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
+
+[[files]]
+file = "config/fps_overlay/config.json"
+hash = "9660eb9fccfbadc2cebfbb6f0a1b8856a9b62340d5ebd64e9cc1b8d6a5d86c8d"
+
+[[files]]
+file = "config/fzzy_config/keybinds.toml"
+hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
+
+[[files]]
+file = "config/fzzy_config/search.toml"
+hash = "103317c4c1c5ae1421946c921428cbfbd9b2a17ee37115d9778d0b22e3b64e19"
+
+[[files]]
+file = "config/horseman-client.toml"
+hash = "7f0ed7c16f3403958ceb089b233a8add81581c65fe033b26d8d012bb176d374e"
+
+[[files]]
+file = "config/horseman-common.toml"
+hash = "416edc95699d475b533e25ccd80d0a3e7587a0e30c7b8ca2b6ba1111afe83b8d"
+
+[[files]]
+file = "config/horseman-server.toml"
+hash = "89c0d81538d309ccb526d97f7472f11d04eabbf9bcd89d90d82ff45fdeaa578b"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "8cc7c7abb485d30acd5ee080c87f3fbb5c5138c9751de9140d9a464981a68629"
+
+[[files]]
+file = "config/iris-excluded.json"
+hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
+
+[[files]]
+file = "config/iris.properties"
+hash = "ce0328f6732cc4cd610b40d320ca9f08757d0ef62574a9889c7c79ec19c146b7"
+
+[[files]]
+file = "config/jei-server.toml"
+hash = "702acd04d99445bce659d04fcc488e1a98c8a803983c31ae262b0f3a47fdc8d3"
+
+[[files]]
+file = "config/jei/blacklist.json"
+hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "f6841387ba118885299e6fe6574daaa62ad5adcf4e73f851ec2e9f8977ea066d"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "960b16c7af6d62bbe7b58fb52216a8a15771bddecbeefab49a8614b7ca86dcbd"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "088ae8d6ef48df6f8b04e24ff6dc90f68f0620ca5c521702402fa0843af3c52c"
+
+[[files]]
+file = "config/justspace-common.toml"
+hash = "92a2b275222f52b49227d66605c64c9db92580843e87a0a417078d38695d7786"
+
+[[files]]
+file = "config/kiwi-client.yaml"
+hash = "6578bc417fc04cc6e57b330bf139a6d48ab5fc9de95638ae283f14975178ac3d"
+
+[[files]]
+file = "config/kiwi-common.yaml"
+hash = "202b5a7ab19c1cfff344bd6546be24f8c10a3e92632551ca83ab636016e9d72f"
+
+[[files]]
+file = "config/krypton_fnp.yaml"
+hash = "7637131dbf6d97f0edca39274fa1afdf43260052c0b62649faf51283c5a1f0be"
+
+[[files]]
+file = "config/lit_on_fire-common.toml"
+hash = "8203ef685409247b6818d70f3a7fe0e02f2b3df0c2ab472d7cda186141bb9c94"
+
+[[files]]
+file = "config/lithostitched.json"
+hash = "d8a63933ec4757186a594debea59dd35724a0a895fe601b324f96217c28312df"
+
+[[files]]
+file = "config/lychee-common.yaml"
+hash = "eb6d83b30e2639c98d327e5c7a0f35699f56b42c4f3ec79e9fc7026e08c4189f"
+
+[[files]]
+file = "config/map_atlases-client.toml"
+hash = "b30ba53d2bbc356d56087389cada0894967b932683b1b7c7278c3a56f6fef0c0"
+
+[[files]]
+file = "config/map_atlases-common.toml"
+hash = "e26a83584a73149bb044601289bddbcc6095cfe5712caf7a1bae49230d2f2ed4"
+
+[[files]]
+file = "config/midnightlib.json"
+hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
+
+[[files]]
+file = "config/mod_menu-client.toml"
+hash = "23f4eef6416246091965cd2459a50dca56e57a2c01fc2f9354f0c09efddf4d75"
+
+[[files]]
+file = "config/modernfix-common.toml"
+hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "fd6926771b5b75eb3385a886515d1b86b9c48cea32aab2d076648b17027e9b25"
+
+[[files]]
+file = "config/molten_vents-common.toml"
+hash = "6d7a213bc509d4e9d0ba0453ea5df958c3b24a5235b2746e3adc890d6099391a"
+
+[[files]]
+file = "config/molten_vents/conductive/asurine.json"
+hash = "533f9fc880ca06a2a2af0b902fe8c968cb7fe48c3f0f75614995dabed25eff02"
+
+[[files]]
+file = "config/molten_vents/conductive/crimsite.json"
+hash = "8d8f085f239fbb8c62bc6dcbfc4ec1598fb41b32d26f8eaa63d94dd1800892f2"
+
+[[files]]
+file = "config/molten_vents/conductive/ochrum.json"
+hash = "1442f0f1c356efe2778353ad417f14fcdfafd881769eb516be260a6428fcaf3f"
+
+[[files]]
+file = "config/molten_vents/conductive/scorchia.json"
+hash = "c93785af456f56c5fdea194e9e21083c61e68335710f6b1368e113c55de0374c"
+
+[[files]]
+file = "config/molten_vents/conductive/scoria.json"
+hash = "e7ab7fa2a7e4b28e5c3cb4ef8c5b2eae54f9c0a353345db808c1361a182b376a"
+
+[[files]]
+file = "config/molten_vents/conductive/veridium.json"
+hash = "bdfec69ffd4909885a1b2221f264193ecf084e829d86397a61b4f86cde1a9a60"
+
+[[files]]
+file = "config/molten_vents/convertible/asurine.json"
+hash = "4faa6219d1b3020a223f54007ac2dba6e9912aa7c4c57f28da6f05961491c317"
+
+[[files]]
+file = "config/molten_vents/convertible/crimsite.json"
+hash = "4faa6219d1b3020a223f54007ac2dba6e9912aa7c4c57f28da6f05961491c317"
+
+[[files]]
+file = "config/molten_vents/convertible/ochrum.json"
+hash = "4faa6219d1b3020a223f54007ac2dba6e9912aa7c4c57f28da6f05961491c317"
+
+[[files]]
+file = "config/molten_vents/convertible/scorchia.json"
+hash = "4faa6219d1b3020a223f54007ac2dba6e9912aa7c4c57f28da6f05961491c317"
+
+[[files]]
+file = "config/molten_vents/convertible/scoria.json"
+hash = "4faa6219d1b3020a223f54007ac2dba6e9912aa7c4c57f28da6f05961491c317"
+
+[[files]]
+file = "config/molten_vents/convertible/veridium.json"
+hash = "4faa6219d1b3020a223f54007ac2dba6e9912aa7c4c57f28da6f05961491c317"
+
+[[files]]
+file = "config/molten_vents/custom_blocks.json"
+hash = "1c4b2f085de10ae681570669250bfcf06a1f04c1e53ae70e3de49300ed0d8498"
+
+[[files]]
+file = "config/monolib-server.json"
+hash = "bd95748e72af495223c6d507c1e3eb6575c4a26ab8456bb8705f39687a221557"
+
+[[files]]
+file = "config/moonlight-client.toml"
+hash = "3f252fefef0345f9aa8a8d3b7eff02f045b8bf565329eeba9ec50c7989a63457"
+
+[[files]]
+file = "config/moonlight-common.toml"
+hash = "a6d5e783dc1469e925d4cf62f17a94ee2dff4ff025d9ed9e61b129581019cdf3"
+
+[[files]]
+file = "config/neoforge-client.toml"
+hash = "d58d93e2c429410d0abf25507d1679f732e1023b03bb52414348efcf5cf3ddb0"
+
+[[files]]
+file = "config/neoforge-common.toml"
+hash = "fe878a2717a145cd890621eac5b3be1e1fd656f7ff9abc6e8d53f670d37474c4"
+
+[[files]]
+file = "config/neoforge-server.toml"
+hash = "b1e3b38d612295f8d9dfa0fbdb538a992b7a1a3b7a766c491b4e9fdf3823396f"
+
+[[files]]
+file = "config/northstar-client.toml"
+hash = "75d7f950abca0664f657c757cbd35135bd0e30f576a976120e1742ad6e2a90ed"
+
+[[files]]
+file = "config/northstar-common.toml"
+hash = "e854c8ff4deb4267e08c5e8b1399772da15fb9d7c1f493394afb977672c3a054"
+
+[[files]]
+file = "config/northstar-server.toml"
+hash = "294723fc2c077cb3d6b0d631d8bf15935e09c55e564ef45283b7c45459637a27"
+
+[[files]]
+file = "config/notenoughanimations.json"
+hash = "59b692e0194eec20f223a9ffbb4305b532b48e53b2393a29625f370f1845a61b"
+
+[[files]]
+file = "config/notenoughcrashes.json"
+hash = "e604a3705ca2adf9499a412afefc61fb589448de43e4652db6232f94699e3950"
+
+[[files]]
+file = "config/offroad-server.toml"
+hash = "d5f0ed8390618c769d9cb40a77df04779b7bbe636343b753c1ed6f92d325ae2b"
+
+[[files]]
+file = "config/particle_core_config.toml"
+hash = "8e330bea5e674ad67b9fa4d0346ed2cb2aa859dc7338630b110690b79c29f303"
+
+[[files]]
+file = "config/particle_core_disabled_optimizations_v2.json"
+hash = "7189bb61c58cb1030b8ee486e66abf694d257192248b9b3ac4978df2b1366f7d"
+
+[[files]]
+file = "config/particle_effects.json5"
+hash = "d8e4194f91f8f374d89cd84d06a68dd4e3bef91a655d18330acc99842157df21"
+
+[[files]]
+file = "config/particlerain/config.json"
+hash = "0f059dea986016d8374ca078055b20f435f2aa9ff93fd678694441de69c598cc"
+
+[[files]]
+file = "config/particlerain/particles.json"
+hash = "c68fd2982fc3690c8b419fd428859bd754a0cba2aa4eab6156caba2814cdbb48"
+
+[[files]]
+file = "config/paxi-neoforge-1_21.toml"
+hash = "1c060e845e29386597054765729f34b0933fa3d1ff75cdd686a4e925cfe973d8"
+
+[[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/brewinandchewin/recipe/pizza.json"
+hash = "e6431e11544b305ab0e641dc3c40e4afcc328c923e759687fd1a7a8342661f83"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/brewinandchewin/recipe/pizza_from_dough.json"
+hash = "82bd20ca95bc8fe85684d662fe79e27e513e9f21fc95e2b3dd1fbe7aed798a01"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/create/recipe/brass_ingot_from_lava.json"
+hash = "47929e758e7c372aac6e8288ebbb2938f503b061317e89b2cef0d641fb44b0a7"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/create/recipe/brass_nugget_from_lava.json"
+hash = "1218f2e11bb9d641968987d8fe0784d08a0d74fff7a77d21039b97a52c83329b"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/create/recipe/crafting/crushing/nickel_ore.json"
+hash = "ff1cf570a25c7f26d05dc7c9dfbf398937ad0ddf40740b70fcbf8ac4385962e7"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/create/recipe/crafting/crushing/nickel_ore_deepslate.json"
+hash = "19177e826a32aab3608d3882027ab79d5f21ac1867a79b6a9bfb178ff2bfe3f8"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/create/recipe/mixing/dough_by_mixing.json"
+hash = "857a467f42786875a8081b322ca429cab9548b683d58969a61c49ed520414cde"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/create/recipe/smelting/bread.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/create/recipe/smoking/bread.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/create/recipe/splashing/wheat_flour.json"
+hash = "11c8ca6d8457350bb21fea65136c8f45650185f32f910c39607ad307511da5ef"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/create/worldgen/configured_feature/zinc_ore.json"
+hash = "b5c040f45c181da3afd27a39d1b38ceab6ba764920ae26627d0b1a499bc393bb"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/create/worldgen/placed_feature/zinc_ore.json"
+hash = "5c5fad3e91f342de6ef63d3474895a51a6694603fc5dd7f46518d57048ce9890"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createpropulsion/recipe/crafting/thruster.json"
+hash = "5880aeb81d6ac09bdca9babc9c6e5f0989e8b96cf6f3b399adab0773b5eabaf3"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createpropulsion/recipe/crafting/wing.json"
+hash = "9e8a4b5442be596ea8a1d0167134695fe4432fe02a59dbb8c99901e538d97548"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/farmersdelight/recipe/cake_from_milk_bottle.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/farmersdelight/recipe/integration/create/mixing/pie_crust_from_mixing.json"
+hash = "76e03fbd471eff5aeb9ccfc50d447696e3ac0d3bd578f054c5aafa4b8d407af9"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/kocourek12/function/main.mcfunction"
+hash = "2a77007625143034741934b16092895cdc00edebdfc827bc71ba28d5e63bfa1e"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/matze_crr_remove_lava/railways_liquid_fuel/remove_lava.json"
+hash = "1c05e2f34aa1fbcc5e8146aafc7cab7fd230d50c86edaab988ef3eb01c7d1194"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/matze_crr_tfmg_diesel/railways_liquid_fuel/diesel.json"
+hash = "a74d5e349756374a7c972c644c7ffa0aec35df279a8e3ade4804592827c31da7"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/abandoned_mineshaft.json"
+hash = "77acb9080edf27a0e18c426599eb9a73cabfda771be197ff4a5eb24e17dbfc76"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/ancient_city.json"
+hash = "993e6ef49efba29df04356d665d4f9948d6eb6a219f88f3a3a6eaff54d2db7a2"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/ancient_city_ice_box.json"
+hash = "9a48257d845cb1adce715e55b2e1755de2c9787b4ebf4225651193d48b00ccc0"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/bastion_bridge.json"
+hash = "a91370f94f7e8cfa68ecc4544688cfc867d12f621de723b2288931328903db7b"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/bastion_hoglin_stable.json"
+hash = "2384dc67ce3cb98519ebcf8cdef699707a82c00607dd071365d7457b1cc237a9"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/bastion_other.json"
+hash = "0ff7146d8aacaffd86e776ffbc441e2e03569baebe3fc3d0136b48cdb7e1d9cd"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/bastion_treasure.json"
+hash = "683c11f2cce5fc3e435b21d1b5a1e98fdff714349a7f55b5e0616becd12d05a4"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/buried_treasure.json"
+hash = "3e77c8b99c8dc1de679ee807a274624918b1b3e2764c773d1910cb792716fe7e"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/desert_pyramid.json"
+hash = "9b43278f41ff5c4759b38ac502be5c36c919cedc7c742880952c0bd26c567359"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/end_city_treasure.json"
+hash = "1176a7915736c8004c4c5205fd3d16f232b4c387ec3cf42e6433d11501961733"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/igloo_chest.json"
+hash = "6313c3136e575007511e2a573f63cd4d17a6d78fb4ab2b21512cb7f098d6a3b9"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/jungle_temple.json"
+hash = "ebcb544d4998e9d9212cc10d87d56422b9a0c361fcbaf57a617b06c175bc2375"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/jungle_temple_dispenser.json"
+hash = "bd1068f63b74e421fbb80c86549e31b57601b5217bde3fccc39e837009b918df"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/nether_bridge.json"
+hash = "81d7002a9239ad78e24c053c6b2fd7388cd7609c4195666e34c85d1b1a1cd133"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/pillager_outpost.json"
+hash = "992d9ec7da80b93732342a0992378f11afa9984ab1fa9fa00dd83357116796b0"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/ruined_portal.json"
+hash = "115d9e212143a742dbf0063629236a3b9cc2dbed8132ab2a41eefcb21f6fa12a"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/shipwreck_map.json"
+hash = "edc0337dfbaa801059a4d9a67844124b521acce7873c1f979cd0eccf82931722"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/shipwreck_supply.json"
+hash = "e7fd64053f931d1bc1363df06bc6648de429d814cbeb4efc5bd119a089ac1ad6"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/shipwreck_treasure.json"
+hash = "1861a8f752c80834afa9067a26530175e4cab0df83a89c4107fb47bb30f4a769"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/simple_dungeon.json"
+hash = "978aafc9534532276e7b23611e7990f7cd85dc7dc5cd2cb1f9ce4a507459bc16"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/spawn_bonus_chest.json"
+hash = "4c22c342d0675e537b26499bd3fb0887e944b1be912bb3e7b882f75030c31d57"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/stronghold_corridor.json"
+hash = "41d7129c4c65fa06d40dbb87bc11b67508646a9e3c437f3eb4ba23d50fc80aed"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/stronghold_crossing.json"
+hash = "4ebd1cc1d80ef9b458a3f87cc395c1a2ca5b041c94cf42688236f59f3d8e8b47"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/stronghold_library.json"
+hash = "f43806200b6ce2a3901e418099b0c0cd2197cb990536a59349b6c2b24e2db131"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/trial_chambers/corridor.json"
+hash = "7c90991e48b341c2280b785d01b08f97253432b56cc0a9368355a418344e1ce5"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/trial_chambers/entrance.json"
+hash = "52c204a78a650a4800574d35f9b81c40b822bee461ef75233a3f096395be3411"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/trial_chambers/intersection.json"
+hash = "5685ec1bbeba97c06b782495336ad9ae7adba0395cf6ba1560fef0208fc5d004"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/trial_chambers/intersection_barrel.json"
+hash = "5c81e705280a283e63a2b3df7c3648da61a195209e10670764b6338b8ab66521"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/trial_chambers/reward.json"
+hash = "a7405f53cff1f74b4ba7995c244aa5ddf4fc9bbbed1f80307e4b35f9d9145190"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/trial_chambers/reward_common.json"
+hash = "9067ba2db4c627f756cf966ff1c19c25f9cc5264367618567d0c13e0723269c6"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/trial_chambers/reward_ominous.json"
+hash = "fa1ad8b09455cd01ecb9bbbf5b9d5d42c3ae5b795649f35c9e91cbcaa4e22e53"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/trial_chambers/reward_ominous_common.json"
+hash = "855ce9ce858d53829db57064b15e6d9c26fbe212abeb563029fb05fe6b59d718"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/trial_chambers/reward_ominous_rare.json"
+hash = "13536169045135b359c3f99f6d38d074d3fa1610cb29600dd96759355cec81db"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/trial_chambers/reward_ominous_unique.json"
+hash = "3df5ea103677e150720a18bbf615b140d4dc01bb4ad84f3db61d76d66b3ea6ba"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/trial_chambers/reward_rare.json"
+hash = "b72c7665ffe163b9139fd49fa87a5b24e51e0fcb51b6ce79e489f1c791b93ac8"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/trial_chambers/reward_unique.json"
+hash = "36c46a316e7417cb49ed55ed5ec46ed695d0c70816c3bd858d0a6c6ade938720"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/trial_chambers/supply.json"
+hash = "b43dff5f85b49cb70c6bc0b44210d0ca12900242ce1b50d88a79abdf09f61831"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/underwater_ruin_big.json"
+hash = "31f51b3c4b0976135de69637bac86b609d39558779494240d8feddc6b029b709"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/underwater_ruin_small.json"
+hash = "c7da8207f1eb03423c3c6d173f33cf5e87fc1a56e0c4494a3357cb1b81d24416"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/village/village_armorer.json"
+hash = "28047cd65e3d96ee16ed48069e0f5a4c712cbf35879219ccf120e6e74838c399"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/village/village_butcher.json"
+hash = "b05ac2d303c1dbe0b141d95b5e3e12d98f29cbafef09c93d71962cd44149af30"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/village/village_cartographer.json"
+hash = "9bc960a954ed47d1bc61282b531a504cd0bcb130c6ab9c4e14aa34b30af6879b"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/village/village_desert_house.json"
+hash = "5c5deff25897f179d4861288d3ade09e99f4bd37db679ddce154ff0a34882448"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/village/village_fisher.json"
+hash = "03ec86805d16469c73c26f243b2f22ffd37b07ef47c771c798dcc4ebf4401d2d"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/village/village_fletcher.json"
+hash = "7472a3b50af48c0ff20e225ae67585fed440bae2a52317c0913894834cb53419"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/village/village_mason.json"
+hash = "6c8c95c05955588a7bc65c276821473550efdf3b3b980e8338a12008343f8c4b"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/village/village_plains_house.json"
+hash = "dc1dfba65aa4a89c4c650bfec83e6f900120c5e67db884062a5fd1b34d1c45cd"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/village/village_savanna_house.json"
+hash = "a2a564646eceed96358e13698794dfb9a801d3d9d058d89f3bc3604419fe061f"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/village/village_shepherd.json"
+hash = "a31516fd96966d702514e897bec15d50f87f6e50a2b055a6d421276522a04912"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/village/village_snowy_house.json"
+hash = "e0c939dc0bf420cda6e456e3512e0e1bb09f544540b28bcedfa57a2309a0f377"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/village/village_taiga_house.json"
+hash = "4b1f547605fc00333e6ebc4dc9b417a69e55fca50677eeb3b1ae67c60ec354ec"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/village/village_tannery.json"
+hash = "3f5b415087bb0ee9629c2c0ece78a1f55ccfd5ffbe4c1afdc1e3deb0ea68825f"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/village/village_temple.json"
+hash = "7d57b2394fe26d317e40bc96b5736e55246dd8de71c6ad704cc1b6f8068d0068"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/village/village_toolsmith.json"
+hash = "a2fa12168b5ff7c2f79b1e837ae42fc856230e28cd6e795f2dec0e7844a4b1fc"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/village/village_weaponsmith.json"
+hash = "0041d30d108d3273873a81f318dec9a051deab8bf772f5b2949750646c082e99"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/chests/woodland_mansion.json"
+hash = "5714ddc4d1df389e5dfb2c9aa18c20096a488f615a936d65bb4b361dbd2bf29f"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/loot_tables/entities/iron_golem.json"
+hash = "6d28ae06d2eea7b54d54bfeb1382228c5557bcd2cc508ac918ec4a81361e9efb"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/recipe/bread.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/recipe/bucket.json"
+hash = "10c2dfc509e57fd50490b1e3fe136e5951e28b9135f0f3024375d77fd5e1adb7"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/recipe/cake.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/recipe/chain.json"
+hash = "2dd8f5502cdd5f12c329272a49f1a650853741501ede76d61f497d63c1ca068e"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/recipe/cookie.json"
+hash = "19bf9ec44148fe088e8d6d6587e04956f424b6b0d8b09e4fb07172ee3cedeafb"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/recipe/minecart.json"
+hash = "0f996c06a146b9e9bcc8f41d54f70d7d0966fe58067d22d96b43caf8703b12a5"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/recipe/pumpkin_pie.json"
+hash = "69fac5a6f22df464f5239860425bb9f18f1130c5e5cab6a55efc70dcfafdb568"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/recipe/saddle.json"
+hash = "14ed5f0a938c0acc0db611bafa003e4718ec3c6d0efccc5dd1ea92af04f0f081"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/structures/end_city/ship.nbt"
+hash = "47ba85eb53a17d9d379d8fe5d02042c6495f16852ff09894165d2aaaad65fa1a"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/tags/blocks/mineable/pickaxe.json"
+hash = "3a7346e42dfd1da4892c6987ba163d7a75de8154fb41669c92778bfbb7fec6f0"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/tags/function/load.json"
+hash = "290c439c51f791dd182f86eb2dd2dd887d559d9c8bc74403129f69c3f9c5333f"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/tags/function/tick.json"
+hash = "fc424e35781af322e655807be390efb39f4a4e4d6fcf613bd2714dfafb56ec5e"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/biome/end_midlands.json"
+hash = "1f0d3bf88f3654a0d95573a2977e34c4e5aec7a44672e6498ac10dfc55b2468a"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/configured_feature/ore_ancient_debris_large.json"
+hash = "ebf61e21b6f69b0c0cd6e2b1f2cecd62415c767fe8742de971f4472db65a5b99"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/configured_feature/ore_ancient_debris_small.json"
+hash = "ebf61e21b6f69b0c0cd6e2b1f2cecd62415c767fe8742de971f4472db65a5b99"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/configured_feature/ore_coal.json"
+hash = "3be71820e4300d596d52dad663f3f563f08680d839cc283e59a5a001a4cb8ca8"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/configured_feature/ore_coal_buried.json"
+hash = "ec095c72eb3eeaf798f3b222c3b0c925c2b3437384482298c040026b2f7f378b"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/configured_feature/ore_copper_large.json"
+hash = "25fb0e284192b7d83fb637403d9a746556b0af855992d80e42aed241b7b725ed"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/configured_feature/ore_diamond_buried.json"
+hash = "cf69cbc33e92fe9309226bb4123161564c88e729d20ffeccee96c942d6221c11"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/configured_feature/ore_diamond_large.json"
+hash = "0a6ebb840eeaf951dfa3fe16872637b7836816bbc0c4a4b1cabacc2c1f5bb382"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/configured_feature/ore_diamond_small.json"
+hash = "35f9f308b1711a09fc88eb35bff419c2d37bd53201619bade343b3867b214747"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/configured_feature/ore_emerald.json"
+hash = "573dfbf51ddefba0576e767653acf613abad869999e1206e1d6a67e55aa610c0"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/configured_feature/ore_gold.json"
+hash = "a631a3b9fa4a539c64ae48662596cfb9047d9128b076358b97f3b5478227df5b"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/configured_feature/ore_gold_buried.json"
+hash = "7d5d26a9757ab29e0cda4e89b9ad9b1742f7a10553a42ef987d7e509d09aad1a"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/configured_feature/ore_iron.json"
+hash = "2d2294adaa48bbd6aa7ba9ad3c620a78754b6be5a82e5c686a784c365dab0bb4"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/configured_feature/ore_iron_large.json"
+hash = "1335ad2cce800b49847b99115335097f44be937b27a4e684db9f774c70f688bb"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/configured_feature/ore_iron_small.json"
+hash = "37bf693805b85cdc7b48acb7a1cb6f25155d8764f6de28ac4f0bfea2ef4cc00c"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/configured_feature/ore_lapis.json"
+hash = "7a4fe6c39f83ef6a94f8c8b06afaa85951579172c3a7a87596e2690741e0510a"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/configured_feature/ore_lapis_buried.json"
+hash = "2c13fb9e206fb47ef9ed25d0f89836f00c2e71a4f5c35e334cc4394401d03b32"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/configured_feature/ore_nether_gold.json"
+hash = "c07b2442f566315261aef9315a997ee36a7c95f7ca95b9cb8fbc6f57be9e21a7"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/configured_feature/ore_quartz.json"
+hash = "e859a094341f65870698436ed5bda71f1608751a78891016c7b82fc09056642d"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/configured_feature/ore_redstone.json"
+hash = "9bd22b4104a71d99e695e8420972fcff6d8fe059c0f91b7353e2d558dee47ab6"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_ancient_debris_large.json"
+hash = "884bd48a5865acfeb91fd5bf9fa793b1dbe7563ffbb24bd3b58a97dad0ae0565"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_coal_lower.json"
+hash = "bf8d0c97cf9c0ccc0db8a667f12b693367970eeb83cf970ccad1624eb0fdf41f"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_coal_upper.json"
+hash = "40ac272b2db58af18db8e9584a62dc2dbc3d84523356a225970a46e44ff32c77"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_copper.json"
+hash = "a18cc0d2d7df5361e5978ec8f0855c347c51a59ae2c2cd6bd2f831727ba0d064"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_copper_large.json"
+hash = "368f816b1b8c4789320b8924a75632513f1159e0cc1d9adcfba9fb2e1c6599e3"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_debris_small.json"
+hash = "ebca0491a57f054ffc40b0101ec00dd1d9239db6d04b5801212c6bd30aa8da38"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_diamond.json"
+hash = "ce203029d5fa287d7a9b468722888e29b8f671f39a57aaced396ccc07983768c"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_diamond_buried.json"
+hash = "9441d23ccd08587d8a3b902b3377e3b7da426d9df724dcaaff49de95a4ac0177"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_diamond_large.json"
+hash = "87ce2dc239809b3903928ee69c43885e17dec9c3a009e272fa23393f8f765b7d"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_emerald.json"
+hash = "cf452524e74f2ed470306468d51c4b2045f7a5a1bf1b4087c8301e71111370e4"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_gold.json"
+hash = "7f16d6a90fdd02f219626ee787ad5db8f3270c9bd771ab005aada3c5c230c085"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_gold_deltas.json"
+hash = "5d69370c998d114776c0ee04f8a94fc7fd26a6f27deb15d10c3e46b39f46647a"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_gold_extra.json"
+hash = "447aa9a372a53e7b1d765ffa00d5d0f4caed111d7b75ee02aadeb0025af3035d"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_gold_lower.json"
+hash = "7e8faa25f887ef11a022f1cdddffd850a42b1615e535065a7cb15f02bbe00306"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_gold_nether.json"
+hash = "895ba4e0b4d3021271070ec0c555ab490072ee7c3d88439f650867b0df91345e"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_iron_middle.json"
+hash = "c073c86ca4e05fab7563f4bb9ec21dea11f3c083ded90d057f02a6ff6f297b51"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_iron_small.json"
+hash = "a94b993c9954413ce946456596a013ee8f248f869dc797376fb2d79a986f84bf"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_iron_upper.json"
+hash = "a838bd27316bee2729d4409375e6a845fd2eeb0cb5c1338eb57f26356b8e3e98"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_lapis.json"
+hash = "bc78fa80b1c73ea8e690f697f1e74d0586fcce77a1dbb57e77244e9d5c3aa5a6"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_lapis_buried.json"
+hash = "fcd353f50c3c599e48ebf50ffd8c7b66f7de7ca7c63d9c46772a0f9975789bde"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_quartz_deltas.json"
+hash = "b43c1976c9258ad77e77bd13d9d7dd48c3c2ef6b352a409590e27edda2af51da"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_quartz_nether.json"
+hash = "f34a0b9a42ebaa4af7eb929dd53ac5af4de59941896d4ff44e3f831a4d3d186d"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_redstone.json"
+hash = "29684bfe94d316ea2cf9cc941e40e8ab14f11c79ea3226d2ba2123c92a8feca4"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_redstone_lower.json"
+hash = "97f0719a0f4dfcde389f08e78d6d483d16f3a9eb7ccb0fa664b130454e6c9751"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/template_pool/village/desert/town_centers.json"
+hash = "e2b728d1bb3a9bd376524561caa1b256573898f44b7338e8fd1b198b392d8f8a"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/template_pool/village/plains/town_centers.json"
+hash = "f2724396063a1805ff39ff22381690625085d6aa989a62fb2495579118554d19"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/template_pool/village/savanna/town_centers.json"
+hash = "ad5c339b390abb8f3a77a6160379898ab565e6d0bcac56c8e07936062c2eec9e"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/template_pool/village/snowy/town_centers.json"
+hash = "db364634bc9c82d6c6d3016c701c131bece6d707179676054608c74d2ecfa135"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/template_pool/village/taiga/decor.json"
+hash = "6fbd7494c292876ba5da5a674571d8571989c780d13ad4c6e114baee4e573b68"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/template_pool/village/taiga/houses.json"
+hash = "ea6b3e3e34a5557f8e66f4cf4dc1268c9c4597feaaf175d3376a2be98ca586e9"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/template_pool/village/taiga/streets.json"
+hash = "8688807fffa0ed2feea805d0f70f532b60ba140e707096e903628ad8ae19d4c1"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/template_pool/village/taiga/terminators.json"
+hash = "6dff04b975ecf7a3d171a2798b64ec84d8663b0e133e87cdbc1f076857a80e1e"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/template_pool/village/taiga/town_centers.json"
+hash = "0959abefe70269898c6bcdf27a9cf90bdfe0c74f85b853404413fcbbcd1c6dc8"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/template_pool/village/taiga/villagers.json"
+hash = "663ab8f18eca9d8ab5a18a68cd6809a45cd092185e9f676c813da4124c5cd495"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/template_pool/village/taiga/zombie/decor.json"
+hash = "065269bf6301e7963d6e2f96e6479151d27082d4933666e5a539ff61eab53322"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/template_pool/village/taiga/zombie/houses.json"
+hash = "3e9e3d195f5bdd4e4b19f8e48bd021533b66b4ec74a8ccd9f16197d3c8214368"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/template_pool/village/taiga/zombie/streets.json"
+hash = "eb6f3c28c8de4939fc1da8e801e974c2007a31fd3906aca20203e88507ea313f"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/template_pool/village/taiga/zombie/villagers.json"
+hash = "614605ec4f0286dc812eb03fe6144f4cee0bb1f95669e1aab00ab1db79c299f0"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/nomorephantoms/function/load.mcfunction"
+hash = "b602e4ebe0648a2c4842dce5fc9bb4a6f9411d7f73332e28da61155f4dccf1cd"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/patchouli/advancement/grant_book_first_join.json"
+hash = "a9d81b36c0e5961740ee2ea4dc7419f9c6e75abb6b078af3e6fa028f36d1b5d9"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/patchouli/loot_tables/grant_book_first_join.json"
+hash = "78cf0205debb35291a5c198c35faec18f63b3b50c5d932028ef36ebf6b8ba03b"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/path/function/convert.mcfunction"
+hash = "5019e0072607fb563ff77645090cd734edd639a59e0ff006f3df7d866fb36685"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/path/function/load.mcfunction"
+hash = "30ff4b87237a28a72528388438a2256c44b8575f00a9e090100123b66ef4b893"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/path/function/schedule.mcfunction"
+hash = "adfbcde7e09e8b024628572afea5ef4cdb3ec08563a6f3f5122cc45065e902cc"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/path/predicate/chance.json"
+hash = "b18b17e8188f98e6b06f4ec139793e926061896a17dd2641fc571409ea0452a2"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/path/predicate/sprint.json"
+hash = "74c259986eb087f7781c396df5796dbc350f7d9f1b463fd0e0382e027ccb6da5"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/path/tags/block/path.json"
+hash = "77819457c6c87e5f5d03e93707f5a33c6807905ff60a02888a2b5e9fc818e5db"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/tfmg/recipe/crafting/armor/steel_boots.json"
+hash = "6448f7624da8c2428ad592dc22042985e40a7b5817234a8504f91fe78df421d7"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/tfmg/recipe/crafting/armor/steel_chestplate.json"
+hash = "8b9853b3d346251de9d4f1f5b6d977f09a1388c076f1ded7ae0c7dc8be6c90ad"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/tfmg/recipe/crafting/armor/steel_helmet.json"
+hash = "7ad523647019cc35dae22275aac07928105c2f64156b46f1113cb6aa79d67f74"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/tfmg/recipe/crafting/armor/steel_leggings.json"
+hash = "00859032c3fe2885aa13d93e2a8f33058d8c4164342f3b9a38074c86b16ff163"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/tfmg/recipe/crafting/paper.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/tfmg/recipe/crafting/tools/steel_hoe.json"
+hash = "32d63b0329a0c514d05415de1df28d0e85388d12355cd8596f9281e14220f04a"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/tfmg/recipe/crafting/tools/steel_pickaxe.json"
+hash = "61f3951408e45af166142c99d0cb334b3b6ef3276e167e87d8a25833a49091db"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/tfmg/recipe/crafting/tools/steel_shovel.json"
+hash = "368a88f25b5dc3de5888e690520fc79d01ef8ab527f65db2bd6449c2f19e9633"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/tfmg/recipe/crafting/tools/steel_sword.json"
+hash = "87fdd745a4fcbbb73c29f411942c1a2aacf5fe9d3a3c85ca93a2f1960c4ef49b"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/advancement/nether/obtain_nether_star.json"
+hash = "ad51e3197f073d0c6a95632fe1fc3130dac9371ad2cc98f163db7bd20a880dc3"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/advancement/trigger/obtain_nether_star.json"
+hash = "18383d940e1ee79b0e8256c8945c4ba5dc9e3df12e6142e3141faee23b8f4599"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/advancement/trigger/right_click_soul_string.json"
+hash = "036057bd2d01a86e13624d8bf7ccd602150d90ceafb1a8f987e42ba6fe39bc39"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/config.mcfunction"
+hash = "6f95e146c0175847d4e3303c212e913b75db92cafcdc5eb86ef9722464817ada"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/config/wither_boss_music/disable.mcfunction"
+hash = "5151c4c64271f4084f64b58893f5ecb11445be7b77f29b6289638ea24c2e254b"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/config/wither_boss_music/enable.mcfunction"
+hash = "49a9dd7fad13bcfe06d7402abe77e860affc11b255bfefb41b75de63d1d399e2"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/config/wither_fly_fix/disable.mcfunction"
+hash = "06d3d70f4fb22827519370fc6a4c9449e7d6f0015222df3483c10b1005822e43"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/config/wither_fly_fix/enable.mcfunction"
+hash = "925959e564f31da2434860b33bbd8442e655200a957db9a06f5bfbb88cdff364"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/config/wither_griefing/detect.mcfunction"
+hash = "10cc663a6b1dd38c8a8a3adacf7c199e4b46d2e78fe72b10871c50d9270214c9"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/config/wither_griefing/disable.mcfunction"
+hash = "4ebf6895c9453fbeda620e7c0046f2f7064c0669867ef46011e8eec55576a692"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/config/wither_griefing/enable.mcfunction"
+hash = "3bd85a533b8fb05e096759754c8fc54efc8c2073f32fd8f4556c9deb4242f0b0"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/config/wither_griefing/if_enabled.mcfunction"
+hash = "311523bd87be58473ff740d13b6592e4d2e9cda2c673a9b56a39e30e31572e7e"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/give/soul_rocker.mcfunction"
+hash = "dd93f3f5ddb48b43e82a5ffa37624280acf2686461ecad103522be3edacd77c3"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/item/soul_rocker/main.mcfunction"
+hash = "6ddfb59da591cda556854b21a0d874b7151a7a9bd3c46b01aa2622d64ae55266"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/item/soul_rocker/main_attack/spawn_projectile.mcfunction"
+hash = "f39193eef22e5313123c2e52a12785059f60f666691e218e01b9a69347d3776f"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/item/soul_rocker/offhand.mcfunction"
+hash = "fa638b7f9642652f65b8858a977c4b1225d64aeaf933741c5103d04d27f6a33a"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/item/soul_rocker/play_note.mcfunction"
+hash = "b285f79dbc3be28753e35dc8fe7f4f4c626f6d3a128596c8aad1123d329f4194"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/item/soul_rocker/play_note_sneak.mcfunction"
+hash = "d4c061832ce1e196456853782d474b1291b65113cab4c0250386c78b35b07a59"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/item/soul_rocker/projectile/main_atk/kill.mcfunction"
+hash = "52567fcbfd1575031d471c2e0451d32c11b8b123cb7a42dbe83a623800c99062"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/item/soul_rocker/projectile/main_atk/main.mcfunction"
+hash = "11a4e0d672948435ed5685661b64f9d343e88e95d2fdfcfd9b7d5085ad772160"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/item/soul_rocker/projectile/main_atk/velocity.mcfunction"
+hash = "89ee548cae03c901673bfe35d82170e241ad8a7a4f7ddd34164f823ad541e95e"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/item/soul_rocker/projectile/special_atk/kill.mcfunction"
+hash = "05dab8d3c2f133a6e62bb9621b298d78e80295dc99834807c92d8bc03aa04f54"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/item/soul_rocker/projectile/special_atk/knockback_apply.mcfunction"
+hash = "d4b093208c8affc2d2bf6fb90cf206cdd4c4f23b337d280534aeb5aefd2f791c"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/item/soul_rocker/projectile/special_atk/main.mcfunction"
+hash = "b27d8a0179a85dcc04abb6a9e47bc4ad85dceb98ea92715f2fa4782f5cac8648"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/item/soul_rocker/projectile/special_atk/random_rotation.mcfunction"
+hash = "85bc61f568e0dd4a7e8277cee67e4052b55eae5663f135def80222452b62b13c"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/item/soul_rocker/special_attack/spawn.mcfunction"
+hash = "37b1ff1c224600c373802dbb31739cb3db58cc1ea39405131136091fd0670adf"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/item/soul_rocker/trigger.mcfunction"
+hash = "31f8b03d52b56f22b00f8e92358597df31510e697a4109dd746b709262675f15"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/load.mcfunction"
+hash = "d1e0a7c71e3e3ea079335d3479d6da3522bf1a1d1deef8ed69d8d42709d3b010"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/nether_star/ambient.mcfunction"
+hash = "41c210b2336754e4dae52aa07191f62d836e7f6c6f43f824e86a3574abe32fc7"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/nether_star/obtain.mcfunction"
+hash = "47463ee98c54deef02315c387b65634923da951594918e67c409e023b84864d1"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/nether_star/particle.mcfunction"
+hash = "f60914cfaab2abda0d32d7574e527a47c7bf62f4990d1ec24820c8c35b803b85"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/tick.mcfunction"
+hash = "a04e93a221f7e8ef91fec1f7d93f27eaf5151e1158174e15bacf3402d6a74ed3"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/uninstall.mcfunction"
+hash = "feab0df1cacdfc8024b2ad9dd08e55f305805c87d8ebda63f9c2904896323721"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/0/action.mcfunction"
+hash = "80ad0e0ffc583eb29159aa1ff96b05ecc8618365c25432851ecf43feb3bb8d72"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/0/effect/ring_0.mcfunction"
+hash = "b9ce9d7905e30389ff75c878ad1325af03006a079ebad8a6a260f1f4f67c7080"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/0/effect/ring_1.mcfunction"
+hash = "0d1f3846b53e6cd0f8ac9efa58dbbd399485993dde1b7e7a7f1e92ed10f44e3b"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/0/effect/ring_2.mcfunction"
+hash = "92aa8447d0614b3d7cc6fe8d070ef8b3e74d0384b75eb7ffff1d90184c211daf"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/0/main.mcfunction"
+hash = "3acf9b11811846b4c0be0007f2c72e105f8c0c736f2d1de9f1f457ac3880b59b"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/0/prepare.mcfunction"
+hash = "3cbdce6d3f3cb05ebfdf40eb174d31cf1ed426098ec14a415a6ee8fea027b0f7"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/0/projectile/effect/explosion.mcfunction"
+hash = "2200e3a55e2416d0841df0f591b6d57fe0d22652ffbe905c33a8921f4154ab0a"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/0/projectile/impact.mcfunction"
+hash = "e7a03d847602a010dc97ff79eed3abd36848cd2594e930fa5ceeb4ea81f3a348"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/0/projectile/main.mcfunction"
+hash = "4dee8eef38669aac64a9a60781a2ffb2bb975b63ec3595484efe85dbfbc695ed"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/0/projectile/motion.mcfunction"
+hash = "696336e6464c6833a7c336a5103070df1d288601e8b4dc80f5ae6a254e16b0d6"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/0/projectile/pattern/0.mcfunction"
+hash = "7ae81671f771c4b9d94c535e7f1cd95be834a208c429b7fa01881e5d6d43e051"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/0/projectile/pattern/1.mcfunction"
+hash = "91284194e3230014fb10c5fd6dba87bee0b483f9972dd48a4d2b81f24ef2a29c"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/0/projectile/pattern/phase_2.mcfunction"
+hash = "d06385267259c0132b08bfcb83cadcdc54dd55d8e659273dd77c1cae4c83782f"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/0/projectile/pattern/random.mcfunction"
+hash = "5fc85b7deffa901e3da8df2dddde825e9879d649e6e933a1fad98c31790d23c5"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/0/projectile/rotation.mcfunction"
+hash = "58f5d281784d35bb5df7218ae93c9a859e34210c040b423624799a1fbd310060"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/0/projectile/summon.mcfunction"
+hash = "9038305bd33ac0d3b0f84ff51e4700fca8d89065edc17f7ea4803821a789564e"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/0/reset.mcfunction"
+hash = "de2170ed2c9e4e3c54dcb2694e8e24f7d48660d82ca740e06bd56968a2c86dee"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/1/action.mcfunction"
+hash = "1b8137d280ac0b67a99384e3901e7a33c9040ebdce86af90a2018b5c75216b73"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/1/effect/charge_particles.mcfunction"
+hash = "0a4a06d871ce3e8314e5d68e880dd115be7b4ff3c82823131bee4f25c54a8420"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/1/effect/explosion.mcfunction"
+hash = "b53fecb62fa74f97f6736e2fe29847b3cd04557a3fe839a83bf58e85e010de73"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/1/explode.mcfunction"
+hash = "1fc915ccd2c2223141361f993ec3d215e079a6702d50d5426140e2d705503a07"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/1/main.mcfunction"
+hash = "b1ee5f1f2dd926d63df9c8997a6f644fbe0be4db95de2d4b1760a903ba91107a"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/1/prepare.mcfunction"
+hash = "cfff69af711e636baaedac18f7b52dbe52248b35376aeb883917f00a2b98710b"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/1/reset.mcfunction"
+hash = "5494cf14e0b970dcdf0759cbd8d5a72ea5c1bc82fc1d3c21416712192cd7af75"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/1/velocity.mcfunction"
+hash = "7036d5be69b9d22e882ebcc16416abc44b83b1ba5b8eb8a13babd473b7cafef2"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/1/velocity_reverse.mcfunction"
+hash = "54ff590848e83434d77c608042fd7edbb6c0ca54821aa0df89e8850c571c6240"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/2/action.mcfunction"
+hash = "54eb979828bae1fb1fbd564eb5ce2a574956d694249b2c2781e0ed66787a8285"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/2/effect/drop_down.mcfunction"
+hash = "2e00dd2a52019cdb843b05a43511f4531f9d7bcd8d90fa91268123342f37bb27"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/2/effect/explosion.mcfunction"
+hash = "363c55ed5d489e872373da84af8fcfb872962504e32a901ee5f3948647450963"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/2/explode.mcfunction"
+hash = "c4109fda0485e0584d2b516de64cf9212aeef9d0d22cec7e6128504b94fa404d"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/2/impact_effect/main.mcfunction"
+hash = "b036900e8d271f3bd1b123708931d46094ca8b6dd26b40dececb146cbb2fa131"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/2/impact_effect/new.mcfunction"
+hash = "ce3492fca125a1b9954b521d99866aed107fdf0520e9e99cca99f1aff719eb17"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/2/main.mcfunction"
+hash = "7883ee3821f341dadc6065989cc0d0e893a382dbf668ed40e5e0cf509dc61f97"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/2/phase_2/projectile/effect/trajectory.mcfunction"
+hash = "acb2184acde07a7e25a25ad4db855ee7d2c911130bd30ce555933048f21aef55"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/2/phase_2/projectile/impact.mcfunction"
+hash = "fe037ecddaeac38b5c699fa8609b3eb3960bd38dac9144e9b69e92f58aed41e9"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/2/phase_2/projectile/main.mcfunction"
+hash = "eb07c82939437ad969e76d773ba1f11304ee0cead723dfd6899d2c6766c3699e"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/2/phase_2/projectile/motion.mcfunction"
+hash = "696336e6464c6833a7c336a5103070df1d288601e8b4dc80f5ae6a254e16b0d6"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/2/phase_2/projectile/set_trajectory.mcfunction"
+hash = "3d935a5df58b50bd71abbabd939b071266ca389afd4d904d534cf0cf921dc063"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/2/phase_2/spawn_projectile_marker.mcfunction"
+hash = "cc2fe772ea8f57cb78bb4dca8a26d5692ccb869f86ad85ef04bf352d6ad8c0ab"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/2/phase_2/spawn_projectile_marker_0.mcfunction"
+hash = "3efbe612672b83562542617d4bc50a0773173034ad1e2216cfdbc8923d271e32"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/2/phase_2/stun_attack.mcfunction"
+hash = "55458265341a30073f3e06b37a30e5cd64191fe35bd0883bfda7b629df6b20b7"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/2/prepare.mcfunction"
+hash = "942760924cd9c54fd6e7915d279cd40dcd13d1a61c01e12479a66f6e63c98aef"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/2/reset.mcfunction"
+hash = "53e3bed6a8c51bc1a77be4ab64e8993eb94f6f760dacd3b28ffab758235761da"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/2/stun.mcfunction"
+hash = "13585e8837413aba6b05514d119b2cb9433c9d0bb997567ff85b6be795a6f349"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/2/stun_clear.mcfunction"
+hash = "8c3f8546f6610fb683ef5d86b369ac54b6795cf6f808fe11614fd34d39394e37"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/2/velocity.mcfunction"
+hash = "3e998677a8a39b31e43b255b8a9c2f5fc3d1c0e0af2d80ff75e275b2be880a36"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/3/action.mcfunction"
+hash = "ebf2012954943ef27e11098ae0a37e62e248eec28f4a5d7bac0944673c2d65b2"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/3/explode.mcfunction"
+hash = "5f399990bc2e2bf47fc3ebe079d95be63c00c09a0b8ebf9a18046be928f19d8d"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/3/explosion_effect/main.mcfunction"
+hash = "0d64309b06e8722ad6ba030be61e401d20006f9d9760e27b33167589f5f9b1c8"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/3/explosion_effect/new.mcfunction"
+hash = "5ddfb95830d1cc2233b9f42cbccba72f74be5163fdc39f9d88cc049373c83035"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/3/main.mcfunction"
+hash = "d3dba91361648787eda4f414e0bde90b34c9108650bd661f5386dfba9444f5f2"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/3/prepare.mcfunction"
+hash = "79d124525112a384ded77b19b1291dc899e971b9be5ac8fa20371a713fa632db"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/3/reset.mcfunction"
+hash = "e917fa8c4206142c08e14310b1b43c8a6c1a3bc2fb997bf718cae727c5b99241"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/4/action.mcfunction"
+hash = "d7063620d9c74dfaf451438c3312e8680af9a113fde58b4816cdd748bb926d71"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/4/effect/inhale.mcfunction"
+hash = "72085e0cdbfbcc889efcab81b6e76b05e5bf8dbe8cf65a99ed116e78ea378a24"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/4/main.mcfunction"
+hash = "33f3048283f0c2701f7a3990c3b87aa8f0c0b28a1a3a67dab0789963501ed789"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/4/pattern/0.mcfunction"
+hash = "0731955d88a1b8fcbabc12e0e0f626ad8c7f7afabdc14806eaae75b59c3adf6a"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/4/pattern/1.mcfunction"
+hash = "88347c78aaf9dd2460cda0ce81b6289029f5899e0a944936e718f5a9b00596f1"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/4/pattern/random.mcfunction"
+hash = "93b24059365b9abbb753c7c592d52bdc213afb10a7705ee6ddb3d24a516170ec"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/4/pattern/spawn_projectile.mcfunction"
+hash = "3db9e352877e1bca18f5f441ef29a97916e255a586fc409e7022fbdb8b9092b9"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/4/prepare.mcfunction"
+hash = "1f2d116ca8b8c5459019b06fc52ad1cf5ff7a4b545d4183d57b927a0fcdf2c56"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/4/projectile/detect_above.mcfunction"
+hash = "86313e9fb16f5cf9cc789a51228a2cf194ac41aec52c28bc4f72542432ceb8b5"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/4/projectile/detect_below.mcfunction"
+hash = "81b19d6311fb0c4bfa9b97fa4b455026a5daa1658641e08818544cdc79dd242a"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/4/projectile/explode.mcfunction"
+hash = "a1bb43d94ca23c9291d6894488f406afc3371209e4b6c87a058cdb8a629fbfa7"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/4/projectile/main.mcfunction"
+hash = "848a6d733e44f823b0d373a231fcfb2c6cb808d1083fb24d69bf7b392fd8a2d6"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/4/projectile/simple_velocity.mcfunction"
+hash = "d3a27b0e7afdf882b2dfa80b180e41180ca92e7080c0d0d5a35e2c75efee5ff0"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/4/reset.mcfunction"
+hash = "5ebcaafed72825b39953b5c518831bad6bb953f0b2a2a878e0fbef21c846218a"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/4/stun.mcfunction"
+hash = "2560142a9693edfa837c8c5ae0b082607e6fe6c3fba438fc2270ee11c6d39bd3"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/4/stun_clear.mcfunction"
+hash = "8c3f8546f6610fb683ef5d86b369ac54b6795cf6f808fe11614fd34d39394e37"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/5/action.mcfunction"
+hash = "89806a4821f6e89a51691aa46c616eb088ff184fa1b24a4e81828d1c4a53c74f"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/5/main.mcfunction"
+hash = "7f37510c2f92f8836b18ff4519de5afc671b890b749390d12cfdf10255222447"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/5/prepare.mcfunction"
+hash = "2597f1532ee0b55360dc5730ca9eeefdaf262dc29ad3c1dd5112f3f9c37855e8"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/5/projectile/impact.mcfunction"
+hash = "b0d49736a838a66ea64ede332197c2cc0e8080b41709f026fcb74323b976c8ba"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/5/projectile/impact_effect/main.mcfunction"
+hash = "d1bdb8861a5594974d9ec562b1510055f79439408abfe22dfa2eea26a5a48990"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/5/projectile/impact_effect/new.mcfunction"
+hash = "d4ca668b72527c231ca5f6277bae044c5cb73d3b54aef2be0908015d4edbfc66"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/5/projectile/main.mcfunction"
+hash = "df553667e6ce58ca96e3ffeb4346be2e159106a1fd41bef9f49d1ec2db802c33"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/5/projectile/motion.mcfunction"
+hash = "0a1e35e79ac0e00ca34d770447fcef91eab6e3a509a3efa4739b121310cf8f38"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/5/projectile/new.mcfunction"
+hash = "0535bd17b801434039beafe18805398bea5a9b5d6558753e79b6b1ccefd6cb35"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/5/projectile/shoot_effect/main.mcfunction"
+hash = "be8bc24b61669738f60c63f738c6e61dd1a94b50401f40e25b63a19ec0f4bcb2"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/5/projectile/shoot_effect/new.mcfunction"
+hash = "ce3492fca125a1b9954b521d99866aed107fdf0520e9e99cca99f1aff719eb17"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/5/projectile/summon.mcfunction"
+hash = "1e1a6d087dae4ff069e08deb1ffbb38086f6f5bc137a0c6c43423c80c6c50d14"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/5/reset.mcfunction"
+hash = "7a5181504ad01ce8663c127764a4c88a8ec96c7073640fdeb84ab7e524f912c8"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/5/stun.mcfunction"
+hash = "2560142a9693edfa837c8c5ae0b082607e6fe6c3fba438fc2270ee11c6d39bd3"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/attack/5/stun_clear.mcfunction"
+hash = "8c3f8546f6610fb683ef5d86b369ac54b6795cf6f808fe11614fd34d39394e37"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/death/animation.mcfunction"
+hash = "ed29a6d4b59b78316f5dc268410dab88f107c56baff427d8b0313f52608a1744"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/death/crack_particles.mcfunction"
+hash = "269de142255c1f68c7bd7084581433409bd5100e93106942bb41ed8235492147"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/death/effect/crack_0.mcfunction"
+hash = "fb37a14ad1fd6ce96d8c8696b7c4459ae5118950f8f07759a44d0e5470ccf59a"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/death/effect/crack_1.mcfunction"
+hash = "908a79b3917a9053e0d7caad44b4a78a0f8760eed8f09d7ca4d2353b56466d73"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/death/effect/crack_2.mcfunction"
+hash = "c49e79305c55f287acf40cff0bbbc6664e58687176ce71ac3956c84ae5ed6a37"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/death/kill.mcfunction"
+hash = "cb8a3ddaf247eca8c953e27c78f458884bad5d386fa037d0a65ef594bdbaf608"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/fix/fly_too_high.mcfunction"
+hash = "6c4c00639c987e1955a4694ca7c94f7bae105a5e7cbb9435892ad4501bc2097b"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/fix/remove_wither_proj.mcfunction"
+hash = "520545779c0dc744b74aa4679ad98325e3bbd696a70847193bfd1ac247598f80"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/if_present.mcfunction"
+hash = "75407dd06ab1e1d29561fb726b4c85dcb32b8a10ebd586c5ae189f49a8072ff0"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/main.mcfunction"
+hash = "10f7004ffe64705c590726879d2fc7946e361a95b5cef2ebea2b986f24413417"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/music/main.mcfunction"
+hash = "b9be7e57b448545a6b82b3622805ce22c461a0d41a6cf8acb3ae3c134e4fac5c"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/music/play.mcfunction"
+hash = "c1b2f8286a4031e0b2d83366c9eb1f75808b9410123c5e5bb0cb93dd1ae911a5"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/music/stop.mcfunction"
+hash = "31c29a675152b70199eeb90b9afe1461197c16dfc5fe869176e69e3ce489c1e7"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/phase/2/crack_particles.mcfunction"
+hash = "5cab73839ad43ab06bade909f54a8569e40a191e86df78663c9e98e566950b28"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/phase/2/effect/crack_0.mcfunction"
+hash = "970935d5f606262a59f7baf57aa0665af3340a0ad5f8b66357a21ab95a497a72"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/phase/2/effect/crack_1.mcfunction"
+hash = "f5d7df6d619887e145c0bd21592e58e36125c1e6da8898c68d821a810836906a"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/phase/2/effect/crack_2.mcfunction"
+hash = "62862a714103851e26eeb46a2a45292a61d62cf74543ed545d97f70ad01368af"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/phase/2/effect/explode.mcfunction"
+hash = "8eb3384d90b8866e739cbe011483eb8af5cd77d3dee3f1e25d56157d955f8e4e"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/phase/2/main.mcfunction"
+hash = "d2a1e38308012d35e5ae4aa59af8ec96cad350f6a408d3504fc34fa82f241313"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/phase/2/transition.mcfunction"
+hash = "1197480782a03ab9c96812709a48adc277845d2bfa2718d2e6cd5461b75878fd"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/phase/2/transition_finish.mcfunction"
+hash = "98a248cd7dcd3acee855fe4849b3c13310c21c68a8e02f6b604324ee0297c7ed"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/phase/2/transition_finish_effects.mcfunction"
+hash = "7b32fd4bbc1a2a83b182adf60b2a9cb1b34b187e1643b89f7e987f14159dac77"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/spawn.mcfunction"
+hash = "b61886ceff646a3e9fe302479f517a8161712330349196e4d9d92e95ecbf7158"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/function/wither/spawn_effect.mcfunction"
+hash = "42a0585980948d31631c4ca470678ffaa67d9dea43c1771597c1fc06e69c3b45"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/predicate/sneaking.json"
+hash = "c6805b6f03a8653fbde0976a285994de8abbc8d27de9037bc5b342ad74b3bbef"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/recipe/soul_string.json"
+hash = "a985695f86ea1415a9e88766563c2d3790126a54977d9f1fc9782d379423a343"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/tags/block/transparent.json"
+hash = "4fe10440ff946371b5749cea44ca2f0d5ca4c214d199949f888420636a87e9b0"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/tags/entity_type/soul_rocker_blacklist.json"
+hash = "0fcb4bc61fbcd917d2ec78dcfd69a0052faddbea74e4ee7e134a2dea0e118508"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/tags/entity_type/wither_target_blacklist.json"
+hash = "03e02410c02ae0f4c88b2a872f92b8e3e8bc7d19ee96155a538ea4b1d61d3a48"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/pack.mcmeta"
+hash = "eda6f347f10a1d68a69ec2423eaf144494561c7cb9e91810b76338e88a3a9de8"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/pack.png"
+hash = "a3d16da05858bcfab578999504ef3432c55d11c0dd79ab6f9746d1d6cc22d7e9"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/phantasm.json"
+hash = "ecf35890bc27d9399da1973f11143e0c9119d96936deb527e59033e327c9bf05"
+
+[[files]]
+file = "config/ponder-client.toml"
+hash = "55affffe67e84dfe11e590769e235aee999b77f9484a3adf7ee8247a9f3d35ba"
+
+[[files]]
+file = "config/powergrid-client.toml"
+hash = "44e32eb7ffca8a97893c63379b4516cb6a9e9f1b1782b0302efb9fa54155a4ae"
+
+[[files]]
+file = "config/powergrid-common.toml"
+hash = "83e87856ebe127cef716c77137b3ebc0178612438022fe12498750f94432555c"
+
+[[files]]
+file = "config/powergrid-server.toml"
+hash = "9d58c62c1164f0e12a54f509139bf2ea40bc75a797a2b3a2ca67f542622f4cad"
+
+[[files]]
+file = "config/railways-client.toml"
+hash = "fb305f5918be730c4330a5466fba5ba50b2c5ef979152144a2f6aa2e4ea62c99"
+
+[[files]]
+file = "config/railways-common.toml"
+hash = "cb0af90a705f48886a1c4ec970dfeb70e91d6961f561b5f1d5a31f5e0cc1edd5"
+
+[[files]]
+file = "config/railways-server.toml"
+hash = "01d1370950239d1a78d2b166652e0ad7dce25d9e89e46565edc3021bec71e206"
+
+[[files]]
+file = "config/ritchiesprojectilelib-server.toml"
+hash = "793c05c7f9975032f536f7b9702a4f892b8beb31e641af1f12ee9c96aed4d013"
+
+[[files]]
+file = "config/rusticdelight-common.toml"
+hash = "57b796391eff38e698ae399e34b19ce7fc5bd23cfb73c275c323e59420c18a70"
+
+[[files]]
+file = "config/sable-client.toml"
+hash = "0abc8a8f2ce730e440521d4d3d2cb45ec475e9d5a0e01e17e74cfbd63a0bd26b"
+
+[[files]]
+file = "config/sable-common.toml"
+hash = "ff85fe8e0e93691961200fb4c8e910b44a99c6832a17d2ad564ed39ec3073713"
+
+[[files]]
+file = "config/sablecollisiondamage-common.toml"
+hash = "131169b5877e8b9b58634fade8a6cc23fed8e470249baf0e9d3d5ed1c9a2d60d"
+
+[[files]]
+file = "config/sabledestructive-common.toml"
+hash = "beeb7e0a5c286785a4064709d425d15fccaeaf5a724fc03ddd11566e1d6978fa"
+
+[[files]]
+file = "config/short_circuit.json"
+hash = "2fc15fbf096185275a22a5663e8cb3fd42340df0bc9cb587e8d94b40ef2de05e"
+
+[[files]]
+file = "config/simulated-client.toml"
+hash = "ae2634e6d32c7fb2e3cfe195f0d5c3a4bd2a1e073890d0abcc982065b41e8219"
+
+[[files]]
+file = "config/simulated-server.toml"
+hash = "43f69b72502cfeb43e4b8584a1a8955120fcd25b31217ce199525127fd76e587"
+
+[[files]]
+file = "config/skinlayers.json"
+hash = "45162f45aa2db525a0edc483959f35b6d958ba2e54066a4f87e7f3c3f0f99166"
+
+[[files]]
+file = "config/smoothskies.json"
+hash = "6d42e7f3443246e2102bd1a29cfe6a13c7733ca0d8a45b8a1bc65512d346a406"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "b13f91bd131d358bfe938dddce1285941c02d83530ba32646cee6f7272e359f0"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+hash = "c0e869473c262d40d51f688c76b5c3465ed7602fcb2008c253f5cf9e4bfc9c31"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "2110e1e15126f52c703d2fc99865e23e80419d95e7757fca992eb95080db5b18"
+
+[[files]]
+file = "config/sodiumdynamiclights-client.toml"
+hash = "d8ebc5a26f6f4fc0d27c3746a3aa6ec8d2652873bd3cec6f254be1628f0472f7"
+
+[[files]]
+file = "config/subtle_effects/blocks.toml"
+hash = "0ee1efbbd94b6bcd0e89fbea90c29947fb7039004741af951bf40594f8649e3d"
+
+[[files]]
+file = "config/subtle_effects/entities.toml"
+hash = "3e9788b1039b29c004d3b9b67b36213cdab0dbc8bb6a00952a9c8bcb8eef42ec"
+
+[[files]]
+file = "config/subtle_effects/environment.toml"
+hash = "55508eb928834d52f9f6ef564f0e927b562b6c7965c17779af07545a94f33174"
+
+[[files]]
+file = "config/subtle_effects/general.toml"
+hash = "960fa7522336f41cd9a56970c4a24a123511b0ec61426ee5128306d273351974"
+
+[[files]]
+file = "config/subtle_effects/items.toml"
+hash = "0955be893f8ba0a742ad4966dbe21e794e69c7b4235b63923dc9839865effdab"
+
+[[files]]
+file = "config/talk_balloons.json5"
+hash = "958142274d0ad19894ce5a784e6f24fd66a7a6fb369e09a77bf23598b4d44092"
+
+[[files]]
+file = "config/tectonic.json"
+hash = "fe51e529faafe17609b060f25d2cd87c0db5571c98e306a09f9335d4b54546fa"
+
+[[files]]
+file = "config/tfmg-common.toml"
+hash = "0fb1f8830443bb25e8ee0dde81490b9f49151decd42bb9f5c109ec376f6bb4b0"
+
+[[files]]
+file = "config/tfmg-server.toml"
+hash = "f0324f5a9542ea073b7005aa56cb598546f01c7b4e984eab707e5f8082e5fb69"
+
+[[files]]
+file = "config/tide.json"
+hash = "2b259a2bb1f149b92507a95b260b0a04b4eef9a2c6e067dad1b93789c2dd3e11"
+
+[[files]]
+file = "config/tracks-server.toml"
+hash = "5670de4aa967e03b3ccdc4feb44e9f68656204051b68cac5ec993d349036afdf"
+
+[[files]]
+file = "config/transition.json"
+hash = "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767"
+
+[[files]]
+file = "config/treephysics-common.toml"
+hash = "53dd3ef30e54e6f50ff35c3ad53ef0d1a24bdcab3b806aadbd715a370d1713ef"
+
+[[files]]
+file = "config/treephysics-trees.json"
+hash = "fa6b2ef48d30208c508e42a97cadf1eef0b045d3a05aa622318664cfc6edfd9d"
+
+[[files]]
+file = "config/trender.json"
+hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
+
+[[files]]
+file = "config/ubesdelight.json"
+hash = "704f492b2034f3cd28f72b18febbc5e1ea9f829b453fa41fc1cb0faa9e871143"
+
+[[files]]
+file = "config/vanillin-client.toml"
+hash = "9c142c8739201aba731eaee194d191ad17e49c7b2cffe05fb778cdd7b0f2bbd1"
+
+[[files]]
+file = "config/vista-client-1.toml.bak"
+hash = "afa547381a1d858a99d485c036dc22836361ec4bf0cea11932d485f66cd9a61e"
+
+[[files]]
+file = "config/vista-client-2.toml.bak"
+hash = "c0278b3078be7ecadc298998904efb1e4e25a4b58f2837627c8587de9fe819a8"
+
+[[files]]
+file = "config/vista-client.toml"
+hash = "c0278b3078be7ecadc298998904efb1e4e25a4b58f2837627c8587de9fe819a8"
+
+[[files]]
+file = "config/vista-common.toml"
+hash = "97de98bf14628fdb383e2104fea81b889a9a27035baf48ae2e64998580cc1a05"
+
+[[files]]
+file = "config/visuality/config.toml"
+hash = "8eb00d7011fe645839281c68c3c67fb28cdc97e4541bc6b45d94426ffd3bfd50"
+
+[[files]]
+file = "config/visuality/particle_emitters/block_ambient.json"
+hash = "bd951562cd4789494eeadab9cb79d82ca79804969111603f8dc638b70fa8def3"
+
+[[files]]
+file = "config/visuality/particle_emitters/block_step.json"
+hash = "54d4448f6c45ba1ad311f6c35b55b9b800ad4ae664f075707e05cd798b6eab7b"
+
+[[files]]
+file = "config/visuality/particle_emitters/entity_armor.json"
+hash = "83bcfff6c0eaf573b3cef8fd85e7045b66c91c7a5bf0415942d77c45476e23cc"
+
+[[files]]
+file = "config/visuality/particle_emitters/entity_hit.json"
+hash = "db1fe2d772c0ed136c2d1da0c315bc50ba9760032a60253be6f37ce1d7e38ead"
+
+[[files]]
+file = "config/waila/blacklist.json5"
+hash = "201c132595425b9817f8ea2efe6d5772f96b7059a7cda9f6d2d81f8ea6a8b85b"
+
+[[files]]
+file = "config/waila/category_entries.json5"
+hash = "4d241c0ab0e7c92f673c98f92270bfbb57cc403e1693b9a4e5fc62958b6b096f"
+
+[[files]]
+file = "config/waila/debug.json5"
+hash = "e54d2423726125dd300297ea935fbfd82cf7c374fbd4ee2d85b7ba140e3ba97a"
+
+[[files]]
+file = "config/waila/extra/energy_blacklist.json5"
+hash = "e8243ffac9e64e2b025195ebfc4b1acafb98e5e89c0167e673470d65d4c31810"
+
+[[files]]
+file = "config/waila/extra/fluid_blacklist.json5"
+hash = "278e964061848df94ac89d7610987afe3d008f1ca5fe6119410dc2e07a2aca10"
+
+[[files]]
+file = "config/waila/extra/item_blacklist.json5"
+hash = "9ef0b7479c81e1a941eaa44fcdc571bdf9cb3ddb3d234a64f3dff0a8ccbda41e"
+
+[[files]]
+file = "config/waila/extra/progress_blacklist.json5"
+hash = "b8f09c52b1a975dc1f0ba65c7f4b6757dfc1bc784b87e0530046adaacbadcec4"
+
+[[files]]
+file = "config/waila/plugin_toggle.json5"
+hash = "19e2055f741eef98031f43be18b89bb69e9880ed65d190013896660a21b7d1fa"
+
+[[files]]
+file = "config/waila/waila.json5"
+hash = "ed44d6cf16f35a61a653a47c0788358164f62c5e70ba09af9073c42b19112d91"
+
+[[files]]
+file = "config/waila/waila_plugins.json5"
+hash = "a4a3576cd51c9bb5ed23d0bac81a2309d65ed9c854fa2891a169e55bf1feb53a"
+
+[[files]]
+file = "config/watut-client.toml"
+hash = "cc750724e261c94be36d2cea4a5e4f9466192e9ff7cf01546cb1efcea918282b"
+
+[[files]]
+file = "config/watut-common.toml"
+hash = "93d4055b22552b80ae5f96d396b335910993ab7010b562a34291adade59df4f6"
+
+[[files]]
+file = "config/watut-item-arm-adjustments.json"
+hash = "543e09f71cda1d97d238ac4150e43e50868cf781027c88d68fc714f261d88982"
+
+[[files]]
+file = "config/watut-server.toml"
+hash = "77c32650cc543180e5d03cf079956b631da769ef0c845cc75f34d95718be91f3"
+
+[[files]]
+file = "config/whitenoise-client.toml"
+hash = "00c6e34f0adbb41db954d296fd7c55dc3412463a38038dc836626433dd7f6d92"
+
+[[files]]
+file = "config/yacl.json5"
+hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
+
+[[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "4d390d60d7925cbc8e363d1d93fbc378e51ab95313bcdbede86f8c7996e42eb3"
+metafile = true
+
+[[files]]
+file = "mods/almostunified.pw.toml"
+hash = "9f5aad1d762982ebf9375501f6de7080d60d5b7c24732dc162175d4307c18411"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "571293a6ddb6b5ea7b9c1f5454d0cfc584a5aa50397942bea4906d3b54e02e02"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "e2f2a6f6ff38054ce8d91a43a20b79ea7b4e84cb924142fb7d2bcfdd95fe5b57"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "4696bddb459f4dade3c1be79d05e53566a975ae675d2e80a6e2760edbe223a45"
+metafile = true
+
+[[files]]
+file = "mods/betterdays.pw.toml"
+hash = "72ca919be55dd04a4d8369ef530427382fe6c4e6df35c4d3d67fbf0ff365622f"
+metafile = true
+
+[[files]]
+file = "mods/bocchium.pw.toml"
+hash = "9d5504030a42d5307bef51663e581668a5d49250863fdf6266ee3373a381dda5"
+metafile = true
+
+[[files]]
+file = "mods/bountiful.pw.toml"
+hash = "34a28b6bdea8bacb484ddd5dc124367252d57e8588543df38d0821798dc906a7"
+metafile = true
+
+[[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "3ec3f227220562968dca05112e168c27e9027f43ec53bef1015c0c342b4bab19"
+metafile = true
+
+[[files]]
+file = "mods/burnt-basic.pw.toml"
+hash = "792686408281cc141926aa0e404c2be26bb6a8d5cc612b1e41ab3aad2f3bf9e9"
+metafile = true
+
+[[files]]
+file = "mods/carry-me.pw.toml"
+hash = "83a049256de4813d9b26db8a600424c8409a76aa8321e0c61c1aed47d15b7bc3"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "11fa4cee80d5456e1681f8229c756d8c4aaa3ce6fcd8ab0bef62f408c95441e6"
+metafile = true
+
+[[files]]
+file = "mods/carryon-aeronautics-compat.pw.toml"
+hash = "5c891436034d6663dc0c2eab6b44c46380556dea10f0bee35f9088ef6c0ecc9e"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "cc79252ae16dc896c5e3fd0a5b47114ade035eed270482c13a062e78283f232d"
+metafile = true
+
+[[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "71cdfa52571bfb59bbef8c31628ff1f508033cda051ed6645d834f25dea4830b"
+metafile = true
+
+[[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "7be63eaec6a70605f2f21cc30f0889fb27978c2e2fe62ee4584210502289e77d"
+metafile = true
+
+[[files]]
+file = "mods/clean-tooltips.pw.toml"
+hash = "41cca1c89e237f070a57cf01da0c7fd9c43d74fe7548efd09f57c1219899ea9b"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "52e2cb54ee2933bf00e9b7886f47938a2dce1bf998293be2b38552083ffa5f9a"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
+metafile = true
+
+[[files]]
+file = "mods/cool-rain-reforged.pw.toml"
+hash = "5a46cbcb6b8aa31aeb63f7e32848000d8897bf36acb033632f9caefd34de3f28"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "a489c33879941ccb524c52fb81927adf3d3c8b156064c7a5be5bf8dc8caf63c9"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "899cefbe03c5535b52755672a15bbd30633fd5c09bbfaf265bbe599f1438cc9e"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "6cabae8686cf85c826d1280f00e00d67bb7672d353f669bea9f3775de39dd378"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "2c6621f2d82a9be0240bbf9c0a416f7dc79edd63636f6d1b869c93ca5f59bade"
+metafile = true
+
+[[files]]
+file = "mods/create-dynamic-lights.pw.toml"
+hash = "77ce35f9c20ed2a397c8e2b95eb9f672cf37e44e16f99f17f250c398cabd89bf"
+metafile = true
+
+[[files]]
+file = "mods/create-goggles.pw.toml"
+hash = "9b831e115993c10d0e8b3d187584393685ba0abfaa3ab3ca6ee9dfdf6e1a8e70"
+metafile = true
+
+[[files]]
+file = "mods/create-industry.pw.toml"
+hash = "6cf57a4d0b0d2f7bc04196d22719ca676286d4c1d4435241b7fe9512313a7332"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "ad89085cff15370c0a8bda81c22a3a040204c71f1ee170a458a949295dc219bf"
+metafile = true
+
+[[files]]
+file = "mods/create-liquid-fuel.pw.toml"
+hash = "ec65f48e74ac39be1d5a99e0bc74fd1013abd9efcf361e52043990ff5fba4c2b"
+metafile = true
+
+[[files]]
+file = "mods/create-molten-vents.pw.toml"
+hash = "a997a99ed9988b4d88c1e9275860d6ad7fbef5f883a54d050f1d7aae91f5fd24"
+metafile = true
+
+[[files]]
+file = "mods/create-numismatic-bounties.pw.toml"
+hash = "cbc6ed4320379131d9429431304da818e0efe2381633dbec2c58f4193b79a96a"
+metafile = true
+
+[[files]]
+file = "mods/create-propulsion-simulated.pw.toml"
+hash = "760609d7ae9c33ad2f4b8dfeccc5e872349d3a7c9db03aa76c241737860d3a70"
+metafile = true
+
+[[files]]
+file = "mods/create-sable-dynamic-lights.pw.toml"
+hash = "71fa04ae6430da94fb8369e2f6153e3d7bdb42a905559d0c6745560bf18611b9"
+metafile = true
+
+[[files]]
+file = "mods/create-threaded-trains.pw.toml"
+hash = "5b38747d6ac0f9b216885a6a1d45508354a0ab6077d72510c73b65e147210ca5"
+metafile = true
+
+[[files]]
+file = "mods/create-tracks.pw.toml"
+hash = "6652073f815bed51608dc9d6a9e769ec783a131526054b35e8de6f47c8745fa2"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
+metafile = true
+
+[[files]]
+file = "mods/createaddoncompatibility.pw.toml"
+hash = "867ba7af9bce1848275eb2e8fc619e78b3654a4946a9e906f2273fd8bacc1584"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "a079bf8579ded1a9eeba488f91bdf632a41ac2c35a0cccd8c3aa3cc9ddb7250d"
+metafile = true
+
+[[files]]
+file = "mods/danger-close.pw.toml"
+hash = "7e01ff5fc0395365cf8bb2708c68f79cd977cd72a3d388f3b20458aa0400ed19"
+metafile = true
+
+[[files]]
+file = "mods/durability-tooltip.pw.toml"
+hash = "13af7707844b2af1b04c8e95ad86016cd45e89a8d10b9a6aba1caee55e6991fe"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-view.pw.toml"
+hash = "a89b4568aac41f9047a68e00e57eeab23ff4d9a75a0d0335d4a30f4e409ff878"
+metafile = true
+
+[[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "f619c1ed2e189f9d482d081411fccee4bd26c05cce52a5db914f1989303f080c"
+metafile = true
+
+[[files]]
+file = "mods/emi-plus-plus.pw.toml"
+hash = "2c7239ca637747c8f69ecdd7fdf997752c6545adbab409971da9dbfc177da588"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "1fc8ab07ea6f6abf5252a680f4ee72d7feaa652bc6b17214b1ddc5f5fe4c5d6d"
+metafile = true
+
+[[files]]
+file = "mods/encumbered.pw.toml"
+hash = "f87500b2c923eb27dd06a2e7dc229c6a17b3e9320a395e821ba0b16c869ef935"
+metafile = true
+
+[[files]]
+file = "mods/endercon.pw.toml"
+hash = "378d59d4a96c06bf6427b263e9417df33b34ae61635b0d3f05792e15cb7313e4"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "7030b2d04daf109dffdd9a09b793ccaaac729a931493377b14e87accf3403413"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "298f2a99e309853181e71938c2358c4b2c7c6c19137dcf6bcefb736d43ab6f65"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "67f2c17eba534ea6f5a577b0c8b566dc60ff90385c1aa5787a47a4b046cb1d47"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "646f21ebe8f8b1bfc244588c0e50f6b077b1263ead20361a037b06f24d359441"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "2acfb5ef4452508a69d1e1054fb318ce6df1f16afbbca396b8dc3199b4ba9ac6"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "8df2e6a30e0d24b7d3f48ba777241dfe2a7479323ec03be2a09fd816666b77f2"
+metafile = true
+
+[[files]]
+file = "mods/farsight.pw.toml"
+hash = "3138c13c61cca083b45ba2598c2407194ba5ea16d2a610968527eafa021c4635"
+metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "3e92a40a7d790339afb8438366c5d4590a5113873dc7e434a4f8357cc07bb80a"
+metafile = true
+
+[[files]]
+file = "mods/fast-items.pw.toml"
+hash = "99d7d0fa972996522819e1e22994925f262e8c0412ced857e78e4d681f4efc9b"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "d6590f1ecfee7c8940ead59d5f482b0ac4280dd7a0f8e7152d637457ea06a792"
+metafile = true
+
+[[files]]
+file = "mods/flerovium.pw.toml"
+hash = "ab318c94ea021413ca29bdbc166219eba879214d752e77e616687b349e05e3fd"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "0b7687a29b0dd4400e6c2db295a81b9543c7275674f8b357f57dc64b9d5f49be"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
+metafile = true
+
+[[files]]
+file = "mods/horseman.pw.toml"
+hash = "7703a726ff362b43e40ad9e5e4e4a66d1dcd25bb32728021321ec93aef78e7ef"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "8e67a96432b89ad64ec00b59666f510ead091dea23632a672ac800c77964e9ae"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
+metafile = true
+
+[[files]]
+file = "mods/kambrik.pw.toml"
+hash = "e15a2be839f2039ffb594185565644f9b81595dfd1152891b9e85b531fb55ae2"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
+hash = "fe70d811a816245a5c69811ff26307f2f38ea7b41b46f23b7549b3d2299c449d"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
+metafile = true
+
+[[files]]
+file = "mods/kotlinlangforge.pw.toml"
+hash = "54697bf94a2aa381adafbc9e5a0f0aeff0954ea03dfa2d30cffec94ffd7d82c9"
+metafile = true
+
+[[files]]
+file = "mods/krypton-fnp.pw.toml"
+hash = "90ddefcf8c4a77e108d4465c7dc1928e3305cde39bce388b526f404d6cd52d37"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "8eceefcd5796d8ac69495df67a08ccbcae91f92373456902288fde8036d354c8"
+metafile = true
+
+[[files]]
+file = "mods/lit-on-fire.pw.toml"
+hash = "5153c244b1a421c452338f3ba6884c2a79f4ad4972d890672bc63a3ef5f79324"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "daae831820f5b1c8ac4618fc8c44bc6336809e9889bce7c184eaf6c7d927f14f"
+metafile = true
+
+[[files]]
+file = "mods/lychee.pw.toml"
+hash = "31c837d23b18a6283742ec38d990bacc08ea2a20b1e87cc9c81e9c08583c3aa6"
+metafile = true
+
+[[files]]
+file = "mods/map-atlases-forge.pw.toml"
+hash = "4c9f7337ebb5fa5a2e90a1fb88d290d4b7344f31f910e85671a2c6549106e5ff"
+metafile = true
+
+[[files]]
+file = "mods/mcwifipnp.pw.toml"
+hash = "549bd809610dfbf06af02e986e8fc057a4b1f9c1745b0cb8dff6dd175cc2387f"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "73aba17132f267dd76ff682aa84abfb7c09d25a93b9220ee261a1e25337bebc7"
+metafile = true
+
+[[files]]
+file = "mods/mod-menu-neoforge-edition.pw.toml"
+hash = "9f18a709b7834e52436d19e5e7fe051fdf1d1d6dad6632ce5415c6f5a707ce74"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "67a1f2166177db175eeb9dbd8dd085c6180fbaac6669f07c2cdb9c10efe8da9a"
+metafile = true
+
+[[files]]
+file = "mods/modernnetworking.pw.toml"
+hash = "2ccdb3f108bcff6045bb7e314e4787a0ceae17a7bee2fd5b3db90a3ea29da6c1"
+metafile = true
+
+[[files]]
+file = "mods/monolib.pw.toml"
+hash = "11fb01369bb143bcf8ff4cba665ba9583f9b66e7fd17103ae36e52cc934a05d1"
+metafile = true
+
+[[files]]
+file = "mods/more-delight-forge.pw.toml"
+hash = "6bd82248d3b049c687ea62584ea5fb841e878b87b8ecf6ba914e4cf0a22c32d3"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
+metafile = true
+
+[[files]]
+file = "mods/noisiumforked.pw.toml"
+hash = "9c93eb7b597436c3f71fd4c19121633146776c50b7c9b3b06c7dc9441d722da9"
+metafile = true
+
+[[files]]
+file = "mods/northstar-redux.pw.toml"
+hash = "87339319bf2274719781c9bd95dd20aa075790cae11e51638a07f29f9f468016"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "97333b5d297e656725653bc86b3c8238367cc71d223fe7a2b40aab4e3ce6104a"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-crashes-forge.pw.toml"
+hash = "32b9515e4f9a0ccbf91f88e67ef33319aab272e12e09e0c6b227d7be8238bfee"
+metafile = true
+
+[[files]]
+file = "mods/numismatics.pw.toml"
+hash = "56a7c2e0893f18bcb34206b85a90b1be84267e5783f53f602320ad40b36e201d"
+metafile = true
+
+[[files]]
+file = "mods/packwiz-modpack-loader.pw.toml"
+hash = "1b5880345586561b0bccd2186bc06ca19b9c04e8cd7d73a560411a334abeb9ec"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "4357774fa2bb92e3d6b75a475c41c4cc314e98af696bf591c47ff2621ad5ecac"
+metafile = true
+
+[[files]]
+file = "mods/particle-effects.pw.toml"
+hash = "1303b67e03dfae32fbbea8b1ea2fcffe0e20ca08afa2f5476aa7ba7d08542a4e"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "79c1e8f90db5559d703ab7a43227573d74a8de59232c6c8bee348a582967e741"
+metafile = true
+
+[[files]]
+file = "mods/paxi-neoforge.pw.toml"
+hash = "3581c37e3c9c7cdd1150bb7ad7e47e3e8107914a5cd9113ddfa74ff2f8b8e09a"
+metafile = true
+
+[[files]]
+file = "mods/phantasm.pw.toml"
+hash = "eec0fd0db7812cd12cdac91cd26e0531806f210bbb770b6cc71616e0cc225255"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "6a48780ffd4bc3b941f81232c84034aba5ff7645ea635c604de6df71e6596bb3"
+metafile = true
+
+[[files]]
+file = "mods/ritchies-projectile-library.pw.toml"
+hash = "c62b51a8248d15e3cb63880ac123a92dd6a67973a1eafc4c4cb09f3f74481f78"
+metafile = true
+
+[[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "d795b0f6c7b4e9649eea094548e37d873222b529152ef037687db31c689747d4"
+metafile = true
+
+[[files]]
+file = "mods/sable-collision-damage-create-aeronautics.pw.toml"
+hash = "2bc5c0e4547da3178629cef84aef1ae0c4bc9b0bd668e82146c0390d5bba78e6"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "e8ec0a7577c9e3354b78cc613c2c5e6a9fd708a026869aba82d4ce7fc04bc2e7"
+metafile = true
+
+[[files]]
+file = "mods/sappy-tree-physics.pw.toml"
+hash = "7ad212e0b8fcdaac16e2646ad27e6d060ce54a8d763d446e756d98f61191c6fe"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "d3efcf490e3bba391a03153c9a135abbabddca8418a3e02ecb0817f026c20887"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "96e5c52b0fafd54183e29b3ab1d8df8f1e09a46045afe0d35d19274c07c59d80"
+metafile = true
+
+[[files]]
+file = "mods/short-circuit.pw.toml"
+hash = "cb5634e10d4bfb1da7cd5ae9401b48d122cf9c2510d59cc8b7ad37d482e814c8"
+metafile = true
+
+[[files]]
+file = "mods/skin-layers-3d.pw.toml"
+hash = "442ea4d2312dd58741a7c1ce1f6ae0514cc528fb0b06e7268807d46b0720d6d9"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-1-21.pw.toml"
+hash = "f1dd8ef1eb260b602d43c40867f75b7600fa364e77314024adc09eadf176b0b0"
+metafile = true
+
+[[files]]
+file = "mods/smooth-skies.pw.toml"
+hash = "5a9a51d8024fac91021dd163d5f651946851b6f5cd7ca57ef337375d6a3455db"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "b16ee8ff10576cf6ef43fd6a2828463faf96de88e6409f9ee6b3dd31645d282d"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "05953528b550760efecc9834796d90177e09bd0d231ce814b43578e386468a73"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+metafile = true
+
+[[files]]
+file = "mods/steam-n-rails-neoforge.pw.toml"
+hash = "7532b2a14f0e2722b40e89ac41ac14ae117661c81a54babdff9c8719fe796831"
+metafile = true
+
+[[files]]
+file = "mods/stony-cliffs-are-cool.pw.toml"
+hash = "4acd1fcb2aff2eebf7299268de7eb74af055d50918d9202fcb4a2522512fb2a4"
+metafile = true
+
+[[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "29b33bd2ee22f33878ca019f4866144ab2ca5b2f965c9f12706ad5ad206281ae"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "2e42245826ce70d4ad673addb0e5244da388841f1484f03ee5a9426ee33b2229"
+metafile = true
+
+[[files]]
+file = "mods/talk-balloons.pw.toml"
+hash = "3a408efcde1cd8306d30e4f9de0bfa631f21bc3f23ccd53ee9f00f93a07e23c5"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "cbbc06cd921b629776f574566af0b5dbd58819fad7513cfaac2967d3fb750845"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "0e02e93b9468dca005f7fea385e92612e38bb6807f4dcd64ce7a4b22fac78581"
+metafile = true
+
+[[files]]
+file = "mods/tide.pw.toml"
+hash = "58442e3bcd032f8f0ec1efce17e341417f6861d7d8123f76c60d2c19f39389df"
+metafile = true
+
+[[files]]
+file = "mods/tmrv.pw.toml"
+hash = "1ddbad6aaf1126aa523d27935c0bbc3a0f10b8208f200f35d6873c22b02530de"
+metafile = true
+
+[[files]]
+file = "mods/ubes-delight.pw.toml"
+hash = "f947679e5a5f078e5910f53df7b4e6ab71758c9ae96eb2fa9c443cf0ab641c60"
+metafile = true
+
+[[files]]
+file = "mods/unkindled.pw.toml"
+hash = "655de33be946cab858fe34db7453c14743b5926c1a5c56fd19ed4f201e1d2de5"
+metafile = true
+
+[[files]]
+file = "mods/vista-aeronautics-fix.pw.toml"
+hash = "533eb1bc894ddb3a652c1bdeabfe678ce8f48155e63a0d56947a0bff2ee87de5"
+metafile = true
+
+[[files]]
+file = "mods/vista.pw.toml"
+hash = "f0da028c13dc4c9ad963883ddfc23a1c7b46a15aba094f90f14dbcc31d2ab7c0"
+metafile = true
+
+[[files]]
+file = "mods/visuality-reforged.pw.toml"
+hash = "d16bcfd3d173cb1565a483fd3ae560dd11cd296b63b925e29625e0787d69f4d8"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "61387d427f7c5bfd71df275f731384b70ae12f6b1e520ee9e232ae8c175d42bd"
+metafile = true
+
+[[files]]
+file = "mods/wthit-forge.pw.toml"
+hash = "bb875b2cf893956cec624c16822ec9b05f1f03feb546f08adf7af7fe853af6bb"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
+metafile = true
+
+[[files]]
+file = "mods/yeetusexperimentus.pw.toml"
+hash = "7c6f2e38a6932f846738747fd6cff3af239748a84e89350f6c967c8ac72a65d6"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api-neoforge.pw.toml"
+hash = "80f8b077b7fc1adfd2f895d79d004e09099b6ed5eaf9e8b0c7cd42759d8c18dd"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "18df50136d1d852386d7dc5f88ba198215e6050f680addcca3a3fc5de8378651"

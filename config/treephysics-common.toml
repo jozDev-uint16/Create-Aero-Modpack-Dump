@@ -1,0 +1,18 @@
+#Maximum number of log blocks scanned per tree collapse. Prevents lag on huge structures.
+# Default: 256
+# Range: 1 ~ 2048
+maxTreeSize = 256
+#If true, all leaves attached to the falling tree are removed instantly before the logs drop.
+destroyLeaves = true
+#Radius (in blocks) around each log to search for leaves to remove. Default 6 matches vanilla leaf decay range.
+# Default: 6
+# Range: 1 ~ 12
+leafScanRadius = 6
+#Y offset above the broken block where the upward log scan starts. Keep at 1 for normal trees.
+# Default: 1
+# Range: 1 ~ 4
+scanStartOffset = 1
+#Block IDs treated as decorations for ALL trees (species-independent).
+#Use for mod plants/vines that can hang from any tree canopy.
+#Format: "modid:blockname" — e.g. ["regions_unexplored:spanish_moss"]
+publicDecorationBlocks = []

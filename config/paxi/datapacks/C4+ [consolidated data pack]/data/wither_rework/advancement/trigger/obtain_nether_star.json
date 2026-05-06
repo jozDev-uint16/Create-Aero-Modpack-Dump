@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "components": {
+              "minecraft:custom_data": "{wr_nether_star:1b}"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "wither_rework:nether_star/obtain"
+  }
+}

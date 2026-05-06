@@ -1,0 +1,13 @@
+name = "Cargo,Cars,Crates-Aero"
+author = "JozCo"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e0dc9ba000ad627593148d40915dcf743da8a6193c009b0a6b6239562283c2c8"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"

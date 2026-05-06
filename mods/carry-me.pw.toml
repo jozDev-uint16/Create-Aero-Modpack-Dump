@@ -1,0 +1,13 @@
+name = "Carry Me"
+filename = "carryme-1.0-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eec23618bf4778679199fd95fc08599282f41cae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7425530
+project-id = 1421860

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "A",
+        "I",
+        " "
+    ],
+    "key": {
+        "I": {
+            "item": "create:iron_sheet"
+        },
+        "A": {
+            "item": "tfmg:aluminum_sheet"
+        }
+    },
+    "result": {
+        "id": "createpropulsion:wing"
+    }
+}

@@ -1,0 +1,13 @@
+name = "Burnt Basic (Just the burn)"
+filename = "burnt_basic-1.10.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c844eb09eeab645b2bc3f4a856e43aa54599faf4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7986824
+project-id = 1001031

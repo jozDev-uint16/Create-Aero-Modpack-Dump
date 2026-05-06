@@ -1,0 +1,13 @@
+name = "Modern Networking"
+filename = "modernnetworking-neoforge-1.2.8+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a5820dd0ab818e4517edf602c098a5e726e85f24"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7398398
+project-id = 1251794
