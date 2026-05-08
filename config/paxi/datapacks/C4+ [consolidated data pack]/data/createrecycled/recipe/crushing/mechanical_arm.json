@@ -1,0 +1,24 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:mechanical_arm"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "count": 3,
+            "id": "create:brass_sheet"
+        },
+        {
+            "id": "create:andesite_alloy"
+        },
+        {
+            "id": "create:precision_mechanism"
+        },
+        {
+            "id": "create:brass_casing"
+        }
+    ]
+}

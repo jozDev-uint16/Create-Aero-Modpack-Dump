@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    [
+      "minecraft:ender_pearl"
+    ],
+    [
+      "minecraft:amethyst_shard"
+    ],
+    [
+      "minecraft:magma_cream"
+    ],
+    [
+      "minecraft:blaze_powder"
+    ],
+    [
+      "minecraft:prismarine_crystals"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:ender_eye"
+  }
+}

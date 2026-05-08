@@ -1,0 +1,20 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:mechanical_piston"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "id": "minecraft:oak_slab"
+        },
+        {
+            "id": "create:andesite_casing"
+        },
+        {
+            "id": "create:piston_extension_pole"
+        }
+    ]
+}

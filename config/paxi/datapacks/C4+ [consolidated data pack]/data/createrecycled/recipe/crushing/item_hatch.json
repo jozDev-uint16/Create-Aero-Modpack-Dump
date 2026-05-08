@@ -1,0 +1,17 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:item_hatch"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "id": "create:andesite_alloy"
+        },
+        {
+            "id": "minecraft:iron_trapdoor"
+        }
+    ]
+}

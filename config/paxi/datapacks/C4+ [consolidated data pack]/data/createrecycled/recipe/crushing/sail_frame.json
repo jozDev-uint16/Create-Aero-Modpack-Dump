@@ -1,0 +1,22 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:sail_frame"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "chance": 0.5,
+            "id": "minecraft:white_wool"
+        },
+        {
+            "id": "minecraft:stick"
+        },
+        {
+            "chance": 0.5,
+            "id": "create:andesite_alloy"
+        }
+    ]
+}

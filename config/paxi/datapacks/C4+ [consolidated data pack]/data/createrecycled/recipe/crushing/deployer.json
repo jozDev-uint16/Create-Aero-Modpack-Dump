@@ -1,0 +1,20 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:deployer"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "id": "create:electron_tube"
+        },
+        {
+            "id": "create:andesite_casing"
+        },
+        {
+            "id": "create:brass_hand"
+        }
+    ]
+}

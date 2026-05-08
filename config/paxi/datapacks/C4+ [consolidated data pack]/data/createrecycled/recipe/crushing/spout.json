@@ -1,0 +1,17 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:spout"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "id": "create:copper_casing"
+        },
+        {
+            "id": "minecraft:dried_kelp"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:mechanical_plough"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "count": 3,
+            "id": "create:iron_sheet"
+        },
+        {
+            "count": 3,
+            "id": "create:andesite_alloy"
+        },
+        {
+            "id": "create:andesite_casing"
+        }
+    ]
+}

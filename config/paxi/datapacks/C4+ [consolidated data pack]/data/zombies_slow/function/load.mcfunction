@@ -1,0 +1,1 @@
+scoreboard objectives add zombie_hit.timer dummy

@@ -1,0 +1,27 @@
+{
+  "config_version": "2.0.22",
+  "config_datetime": "2026-05-07_23-25-47",
+  "general": {
+    "disable_all_structures": false,
+    "prevent_structure_overlap": false,
+    "enable_global_spacing_and_separation_modifier": false,
+    "global_spacing_and_separation_modifier": 1.0
+  },
+  "structure_namespaces": [],
+  "structures": [],
+  "structure_sets": [
+    {
+      "spacing": 46,
+      "separation": 18,
+      "name": "terralith:rare_village",
+      "is_disabled": true,
+      "salt": 1798451114,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "terralith:fortified_village": 1,
+        "terralith:fortified_desert_village": 1
+      }
+    }
+  ]
+}

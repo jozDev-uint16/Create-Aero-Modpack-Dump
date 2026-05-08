@@ -1,0 +1,17 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:portable_fluid_interface"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "id": "create:copper_casing"
+        },
+        {
+            "id": "create:chute"
+        }
+    ]
+}

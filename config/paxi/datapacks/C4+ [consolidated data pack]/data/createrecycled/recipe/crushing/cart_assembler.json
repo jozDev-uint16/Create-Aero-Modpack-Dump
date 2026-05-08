@@ -1,0 +1,22 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:cart_assembler"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "count": 2,
+            "id": "create:andesite_alloy"
+        },
+        {
+            "id": "minecraft:redstone"
+        },
+        {
+            "count": 2,
+            "id": "minecraft:oak_log"
+        }
+    ]
+}

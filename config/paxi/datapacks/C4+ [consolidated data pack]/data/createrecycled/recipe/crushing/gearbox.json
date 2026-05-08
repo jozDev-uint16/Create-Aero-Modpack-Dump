@@ -1,0 +1,18 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:gearbox"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "count": 4,
+            "id": "create:cogwheel"
+        },
+        {
+            "id": "create:andesite_casing"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:rotation_speed_controller"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "id": "create:precision_mechanism"
+        },
+        {
+            "id": "create:brass_casing"
+        }
+    ]
+}

@@ -29,6 +29,14 @@
     "curseForgeHash": 4040730689,
     "modrinthHash": "1201c14362f2bad7062d315f8a9b26afbabd2c9c"
   },
+  "anothergunmod-1.5.4.2.jar": {
+    "jarName": "anothergunmod-1.5.4.2.jar",
+    "modId": "anothergunmod",
+    "name": "F708 Guns Mod",
+    "version": "1.5.4.2",
+    "curseForgeHash": 3988890722,
+    "modrinthHash": "8706abcf94885b789a64c88b47be04f63bd5633d"
+  },
   "architectury-13.0.8-neoforge.jar": {
     "jarName": "architectury-13.0.8-neoforge.jar",
     "modId": "architectury",
@@ -743,6 +751,14 @@
     "curseForgeHash": 2521303851,
     "modrinthHash": "f4f66d677b104c6af7f5c0f7e3c08d8e4370ecad"
   },
+  "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar": {
+    "jarName": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+    "modId": "packetfixer",
+    "name": "PacketFixer",
+    "version": "3.3.1",
+    "curseForgeHash": 3606950632,
+    "modrinthHash": "a8bb6e25807682e72c23bf4065f3cd5f6373ece3"
+  },
   "packwizsu-3.1.0+1.19.jar": {
     "jarName": "packwizsu-3.1.0+1.19.jar",
     "modId": "packwizml",
@@ -806,6 +822,14 @@
     "version": "1.8.3+mc1.21.4",
     "curseForgeHash": 3206533594,
     "modrinthHash": "b03d05495be28d8cef7a34872941bb8d703d60e6"
+  },
+  "resourcefulconfig-neoforge-1.21-3.0.11.jar": {
+    "jarName": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
+    "modId": "resourcefulconfig",
+    "name": "Resourcefulconfig",
+    "version": "3.0.11",
+    "curseForgeHash": 2675167766,
+    "modrinthHash": "6bf2b6ea9c071c00a2abcdc552667fb6f7d21031"
   },
   "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar": {
     "jarName": "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
@@ -926,6 +950,22 @@
     "version": "1.1.2",
     "curseForgeHash": 2943908867,
     "modrinthHash": "c6f358c6939486f56eefadaa591c00f783c7fd84"
+  },
+  "structure_layout_optimizer-neoforge-1.0.12.jar": {
+    "jarName": "structure_layout_optimizer-neoforge-1.0.12.jar",
+    "modId": "structure_layout_optimizer",
+    "name": "Structure Layout Optimizer",
+    "version": "1.0.12",
+    "curseForgeHash": 2515988845,
+    "modrinthHash": "052c31cb9881c04c17d949345539aa8684f474bf"
+  },
+  "structurify-neoforge-2.0.22+mc1.21.1.jar": {
+    "jarName": "structurify-neoforge-2.0.22+mc1.21.1.jar",
+    "modId": "structurify",
+    "name": "Structurify",
+    "version": "2.0.22",
+    "curseForgeHash": 2060278127,
+    "modrinthHash": "6c6e5c2edc956b2e1fb6909599b862bc2fe68dc4"
   },
   "SubtleEffects-neoforge-1.21.1-1.14.3.jar": {
     "jarName": "SubtleEffects-neoforge-1.21.1-1.14.3.jar",

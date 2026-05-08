@@ -1,0 +1,20 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:content_observer"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "id": "create:electron_tube"
+        },
+        {
+            "id": "create:brass_casing"
+        },
+        {
+            "id": "minecraft:observer"
+        }
+    ]
+}

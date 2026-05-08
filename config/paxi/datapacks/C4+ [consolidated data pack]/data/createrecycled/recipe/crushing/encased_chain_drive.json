@@ -1,0 +1,18 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:encased_chain_drive"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "id": "create:andesite_casing"
+        },
+        {
+            "count": 3,
+            "id": "minecraft:iron_nugget"
+        }
+    ]
+}

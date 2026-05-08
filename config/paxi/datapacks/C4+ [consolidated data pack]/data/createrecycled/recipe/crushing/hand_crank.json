@@ -1,0 +1,18 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:hand_crank"
+        }
+    ],
+    "processing_time": 150,
+    "results": [
+        {
+            "id": "minecraft:oak_planks",
+            "count": 3
+        },
+        {
+            "id": "create:andesite_alloy"
+        }
+    ]
+}

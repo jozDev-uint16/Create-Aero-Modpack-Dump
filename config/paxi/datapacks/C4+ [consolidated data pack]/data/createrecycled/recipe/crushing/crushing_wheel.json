@@ -1,0 +1,22 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:crushing_wheel"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "count": 16,
+            "id": "create:andesite_alloy"
+        },
+        {
+            "count": 4,
+            "id": "minecraft:oak_planks"
+        },
+        {
+            "id": "minecraft:stone"
+        }
+    ]
+}

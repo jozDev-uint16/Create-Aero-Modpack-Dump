@@ -1,0 +1,18 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:nozzle"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "id": "minecraft:white_wool"
+        },
+        {
+            "count": 4,
+            "id": "create:andesite_alloy"
+        }
+    ]
+}

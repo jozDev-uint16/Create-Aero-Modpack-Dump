@@ -1,0 +1,23 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:mechanical_crafter"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "chance": 0.33,
+            "id": "create:electron_tube"
+        },
+        {
+            "chance": 0.33,
+            "id": "create:brass_casing"
+        },
+        {
+            "chance": 0.33,
+            "id": "minecraft:crafting_table"
+        }
+    ]
+}

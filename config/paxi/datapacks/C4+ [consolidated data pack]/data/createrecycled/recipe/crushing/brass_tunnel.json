@@ -1,0 +1,17 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:brass_tunnel"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "id": "create:brass_ingot"
+        },
+        {
+            "id": "minecraft:dried_kelp"
+        }
+    ]
+}

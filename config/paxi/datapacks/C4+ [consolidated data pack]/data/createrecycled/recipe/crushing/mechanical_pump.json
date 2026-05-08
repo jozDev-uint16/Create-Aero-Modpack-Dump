@@ -1,0 +1,17 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:mechanical_pump"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "id": "create:cogwheel"
+        },
+        {
+            "id": "create:fluid_pipe"
+        }
+    ]
+}

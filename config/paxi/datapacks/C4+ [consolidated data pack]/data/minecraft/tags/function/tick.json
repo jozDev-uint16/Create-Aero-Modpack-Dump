@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "wither_rework:tick"
+    "wither_rework:tick",
+    "zombies_slow:tick"
 	]
 }

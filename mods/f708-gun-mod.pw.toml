@@ -1,0 +1,13 @@
+name = "F708 Guns"
+filename = "anothergunmod-1.5.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9dTg2Tsv/versions/SrEgKxRK/anothergunmod-1.5.4.2.jar"
+hash-format = "sha512"
+hash = "f1e2bc136de01f4190459b0f60ce98fe3c7336c84b5d36b4e870649fe4b693071fddd7152970d76c00294bed9f8382afcb7190d7afbe90543b743f8ede64ebf5"
+
+[update]
+[update.modrinth]
+mod-id = "9dTg2Tsv"
+version = "SrEgKxRK"

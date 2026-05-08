@@ -1,0 +1,21 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:mechanical_drill"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "count": 3,
+            "id": "create:andesite_alloy"
+        },
+        {
+            "id": "minecraft:iron_ingot"
+        },
+        {
+            "id": "create:andesite_casing"
+        }
+    ]
+}

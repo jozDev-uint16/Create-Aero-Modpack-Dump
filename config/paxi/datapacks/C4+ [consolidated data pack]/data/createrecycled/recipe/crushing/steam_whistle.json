@@ -1,0 +1,17 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:steam_whistle"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "id": "create:golden_sheet"
+        },
+        {
+            "id": "minecraft:copper_ingot"
+        }
+    ]
+}

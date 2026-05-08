@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:track_observer"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "chance": 0.5,
+            "id": "create:railway_casing"
+        },
+        {
+            "chance": 0.5,
+            "id": "minecraft:oak_pressure_plate"
+        }
+    ]
+}

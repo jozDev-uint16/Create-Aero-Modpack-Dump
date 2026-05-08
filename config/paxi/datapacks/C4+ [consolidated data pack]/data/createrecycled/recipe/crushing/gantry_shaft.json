@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:gantry_shaft"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "chance": 0.25,
+            "id": "create:andesite_alloy"
+        },
+        {
+            "chance": 0.125,
+            "id": "minecraft:redstone"
+        }
+    ]
+}

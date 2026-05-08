@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:basin"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "count": 5,
+            "id": "create:andesite_alloy"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:sticker"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "count": 2,
+            "id": "create:andesite_alloy"
+        },
+        {
+            "id": "minecraft:slime_ball"
+        },
+        {
+            "count": 2,
+            "id": "minecraft:cobblestone"
+        },
+        {
+            "id": "minecraft:redstone"
+        }
+    ]
+}

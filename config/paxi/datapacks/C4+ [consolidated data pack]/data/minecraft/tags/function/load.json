@@ -1,7 +1,8 @@
 {
-        "values": [
+    "values": [
         "kocourek12:main",
         "wither_rework:load",
+        "zombies_slow:load",
         "path:load"
     ]
 }

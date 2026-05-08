@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "zombie_hit": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "type": {
+            "direct_entity": {
+              "type": "minecraft:zombie"
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "zombies_slow:zombie_hit"
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:water_wheel"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "id": "minecraft:oak_planks",
+            "count": 8
+        },
+        {
+            "id": "create:shaft"
+        }
+    ]
+}

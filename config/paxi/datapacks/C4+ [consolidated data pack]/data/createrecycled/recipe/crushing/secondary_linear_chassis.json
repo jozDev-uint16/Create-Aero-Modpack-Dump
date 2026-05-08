@@ -1,0 +1,18 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:secondary_linear_chassis"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "chance": 0.66,
+            "id": "create:andesite_alloy"
+        },
+        {
+            "id": "minecraft:oak_log"
+        }
+    ]
+}

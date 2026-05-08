@@ -1,0 +1,18 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:flywheel"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "count": 8,
+            "id": "create:brass_ingot"
+        },
+        {
+            "id": "create:shaft"
+        }
+    ]
+}

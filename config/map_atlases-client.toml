@@ -67,7 +67,7 @@
 	#Use sky color for minimap
 	darken_at_night = true
 	#Plays page turn sound when current active map changes. Works best when paired with no rotation and no player follow
-	map_change_sound = true
+	map_change_sound = false
 	#Automatically switches to the nearest slice when possible
 	automatic_slice_change = false
 

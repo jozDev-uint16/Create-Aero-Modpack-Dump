@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:ender_pearl",
+    "minecraft:blaze_powder"
+  ],
+  "result": {
+    "components": {
+      "minecraft:custom_name": {
+        "text": "You really thought that would Work?",
+        "color": "black",
+        "bold": true
+      },
+      "minecraft:lore": [
+        {
+          "text": "> BetterEnderEyeCrafts"
+        }
+      ]
+    },
+    "count": 1,
+    "id": "minecraft:dirt"
+  }
+}

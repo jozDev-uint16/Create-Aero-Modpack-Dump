@@ -1,0 +1,17 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:andesite_tunnel"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "id": "create:andesite_alloy"
+        },
+        {
+            "id": "minecraft:dried_kelp"
+        }
+    ]
+}

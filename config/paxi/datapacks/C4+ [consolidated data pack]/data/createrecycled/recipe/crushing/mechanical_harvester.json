@@ -1,0 +1,22 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:mechanical_harvester"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "count": 4,
+            "id": "create:andesite_alloy"
+        },
+        {
+            "count": 2,
+            "id": "create:iron_sheet"
+        },
+        {
+            "id": "create:andesite_casing"
+        }
+    ]
+}

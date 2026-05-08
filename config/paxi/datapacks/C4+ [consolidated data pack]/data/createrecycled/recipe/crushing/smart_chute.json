@@ -1,0 +1,20 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:smart_chute"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "id": "create:brass_sheet"
+        },
+        {
+            "id": "create:chute"
+        },
+        {
+            "id": "create:electron_tube"
+        }
+    ]
+}

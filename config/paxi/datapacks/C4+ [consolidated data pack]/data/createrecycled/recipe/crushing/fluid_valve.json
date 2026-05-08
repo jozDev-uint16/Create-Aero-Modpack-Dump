@@ -1,0 +1,17 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:fluid_valve"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "id": "create:iron_sheet"
+        },
+        {
+            "id": "create:fluid_pipe"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:encased_fan"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "id": "create:andesite_casing"
+        },
+        {
+            "id": "create:propeller"
+        },
+        {
+            "id": "create:shaft"
+        }
+    ]
+}

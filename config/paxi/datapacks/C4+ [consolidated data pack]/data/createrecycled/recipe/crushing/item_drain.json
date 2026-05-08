@@ -1,0 +1,17 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:item_drain"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "id": "minecraft:iron_bars"
+        },
+        {
+            "id": "create:copper_casing"
+        }
+    ]
+}

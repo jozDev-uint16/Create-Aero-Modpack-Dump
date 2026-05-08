@@ -49,6 +49,10 @@ file = "config/almostunified/unification/materials.json"
 hash = "aeedd65c113ba7e1442e4106f0ca0f95728f4addd39ae90a84f50aff2de7c538"
 
 [[files]]
+file = "config/anothergunmod.json"
+hash = "14fd1e7b3637621347279b620ee81e25c208d9fbda13121dbd2d60072a3670f5"
+
+[[files]]
 file = "config/asyncparticles/asyncparticles-mixin.properties"
 hash = "e9357727a21f7988957dfb5bfc1f08779a6418e888332c0e1f47ead71b0c5abe"
 
@@ -106,7 +110,7 @@ hash = "865a366143df5f4d92941058c823ea48deb8445f6444b45e870331b16a444f0f"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "80f73b76cea4c7947c0a750b9567b0af2f905bc32d310beaae4cdc63efcc473b"
+hash = "c635a4cb05ea0df650eb9e09347f10ead7d42edca2aabebb16fd07ac9d74e3a1"
 
 [[files]]
 file = "config/celestria.json"
@@ -162,7 +166,7 @@ hash = "3a2e328d298b0ef379673beffa566eda2d92b4f1d0e00425573b59f0ea66e646"
 
 [[files]]
 file = "config/corpse-server.toml"
-hash = "806dc2002f95b1bcd16dec843051abc513576a1986ea1931d8c2cc82aef201c7"
+hash = "ac6c31c099b5edc64ef935b75cfed1b754f4c997a374f0beddf066458c9366f6"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
@@ -174,7 +178,7 @@ hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "e43a2da4f9398827f9c59045f9498251893e0addd1333901fb45ad5564e31845"
+hash = "66a30c2c7f9929e098420545e4b34eb94abdd9f440c167f654a604f20ccbd489"
 
 [[files]]
 file = "config/crash_assistant/scripts/log_analysis/example.jexl"
@@ -222,11 +226,11 @@ hash = "1a83004fb3cd30fcf947beccf007280dc19b195ae504711375d4065a7827f9a7"
 
 [[files]]
 file = "config/createdynlight-server.toml"
-hash = "0d33cc877b08f3f3cbcb5db499153be52578512f3ac76ce0dd38e18d07ecc150"
+hash = "76ca1f7857ae8dde3398c4cb4b7ecd60b43fed0cb658c722c0e48eb94a872615"
 
 [[files]]
 file = "config/creategoggles-client.toml"
-hash = "a7388317bf092e58a7a4aee6bf6ee22f6a2ae5adaabff30e6ca07b3260eeee42"
+hash = "0ad53ae2fec9788a2e313c382be8a0950b6969419ce584090607645445d5ea1d"
 
 [[files]]
 file = "config/creategoggles-common.toml"
@@ -302,11 +306,11 @@ hash = "c9082c148391c279d08e5042582a7352fa231f72570f963a46a4b0d3d8239cfe"
 
 [[files]]
 file = "config/entity_model_features.json"
-hash = "c633e3370aa256a71ab45aec68683a2ec4b29b6c5c2dfd430f9788a854ccf920"
+hash = "3954f3ee7ac3486b9f2d2b3855f29187935eb3f49d0f11e133d0b623e9d03616"
 
 [[files]]
 file = "config/entity_texture_features.json"
-hash = "d8d72a9ac49bbe45921f1ace5a22c30b65802c5e70829343cf7acfd25f79b8dc"
+hash = "1e2dc1913d802295d45faca7490bbce27ab69a7fb1ca410ee28ec7d3f7b4f47a"
 
 [[files]]
 file = "config/entityculling.json"
@@ -334,7 +338,7 @@ hash = "a4e7d2d6bac537024dda0a613d6edfbb114cb4971e692e010cf5a43cb743e675"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "fa05389f062007503fd6d976cbc26647385c858d47d9253e2faf73af73835213"
+hash = "9dd36a119bea196ab72bc1ff9a993952f6bf08ffd75ff8e2b985ae4564926318"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -406,7 +410,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "db5a230cdbff8c3968afb51c76828e9e900fd81426934d1046f271ba9265a823"
+hash = "bcd6b2936100480129b5a9fc070c9edb2f88c0121b07609eae487eb565eadd25"
 
 [[files]]
 file = "config/jei-server.toml"
@@ -466,11 +470,11 @@ hash = "eb6d83b30e2639c98d327e5c7a0f35699f56b42c4f3ec79e9fc7026e08c4189f"
 
 [[files]]
 file = "config/map_atlases-client.toml"
-hash = "1878a06c78fa2e3c2e6d0c2a3fe545ffd39824a33115ac247063de2c733ecd7d"
+hash = "df55f4c47f4ae8492575767263cc1c6452599ea7cdf018e247140371e0009544"
 
 [[files]]
 file = "config/map_atlases-common.toml"
-hash = "e26a83584a73149bb044601289bddbcc6095cfe5712caf7a1bae49230d2f2ed4"
+hash = "2e418855968cd65ef3fc619f51310a1048e11c70e163910f90052c9b5f3dac76"
 
 [[files]]
 file = "config/midnightlib.json"
@@ -605,6 +609,10 @@ file = "config/offroad-server.toml"
 hash = "d5f0ed8390618c769d9cb40a77df04779b7bbe636343b753c1ed6f92d325ae2b"
 
 [[files]]
+file = "config/packetfixer.properties"
+hash = "edc5193b68cd0dee483f63d03a26bbf930214c365e3035ff5eea6224a0db0624"
+
+[[files]]
 file = "config/particle_core_config.toml"
 hash = "8e330bea5e674ad67b9fa4d0346ed2cb2aa859dc7338630b110690b79c29f303"
 
@@ -631,6 +639,14 @@ hash = "1c060e845e29386597054765729f34b0933fa3d1ff75cdd686a4e925cfe973d8"
 [[files]]
 file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/beec/recipe/ender_eye_craft_new.json"
+hash = "88c849e6d54074988fce1ac414b940ef782067e83ef4c99c7551269f85188dc6"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/beec/recipe/ender_eye_recipe_old.json"
+hash = "7a1de9ded6c2609e7b96badb853b852aeecfa560ea12077458678520ac73a538"
 
 [[files]]
 file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/brewinandchewin/recipe/pizza.json"
@@ -691,6 +707,370 @@ hash = "5880aeb81d6ac09bdca9babc9c6e5f0989e8b96cf6f3b399adab0773b5eabaf3"
 [[files]]
 file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createpropulsion/recipe/crafting/wing.json"
 hash = "9e8a4b5442be596ea8a1d0167134695fe4432fe02a59dbb8c99901e538d97548"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/adjustable_chain_gearshift.json"
+hash = "aeb8494fa2f6aa8e5c3921c7121d9d97bb6dfc06cbdf5f1a3bb3f95d3d9a9bbd"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/andesite_funnel.json"
+hash = "204227cd220cd6da2be3e6489b65bf5e3dd3a1afafc7760569bb6b80fb60df72"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/andesite_tunnel.json"
+hash = "cd97b058dc2e85437ad328899a518e8cbabdb529cedfbaf3dbae8b6a418bc771"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/basin.json"
+hash = "3034b46b87ed153a2c8ec19f98982328e620dbf3fe3930d178c3bbdae3ff7915"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/blaze_burner.json"
+hash = "4d36fc40454ab4ee6061a59ee623b5a2248ff510074a5eabc787fd35b9eb98c0"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/brass_funnel.json"
+hash = "efcedb8653ae36e61e14b5da8d499a96a961e9b7ab13857fd129fad814f899f6"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/brass_tunnel.json"
+hash = "b420cd1326ab18f0a702362cbb19d6b027f89c4ec6740ee71ba71f96bd08e429"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/cart_assembler.json"
+hash = "ee48d5581298629417b489c309f1ccc42a8b07835daff7fc11b6cd85ebe6fee0"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/chain_conveyor.json"
+hash = "74b610729acba0c72e2ee397bea79b9ba397cf36c7514161846d24d8c3d3671e"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/chute.json"
+hash = "f942ae6dd9017d04bae48db1892d9cfdb4e3e02d6525a9ed964c7992340a32ae"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/clockwork_bearing.json"
+hash = "c6035bf00d7b398798f383f907d959110e5da9e09f1434fb181f072beafd4d0f"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/clutch.json"
+hash = "3689f2e0e6cb9b2d5b6ec283c50cbbd828f26b01b6065ed17137a106fb6b0389"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/content_observer.json"
+hash = "12d9f4f046e1b939d3368451b053544a89daf06d7db682f8ef38ec482a855d01"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/contraption_controls.json"
+hash = "b8c0bf7f75139a9dfacae25c903c67b4e60884e26f884bb1889608c9b30e0522"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/controls.json"
+hash = "2ea25af6f4060b5278f1d97c0c19e75f52a619d1f7d894b105954ead600cfbc4"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/crushing_wheel.json"
+hash = "88612c35c1cd67a801010fd0938a7cbb199548823b2a7b2fa1e074095a0ee1ff"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/cuckoo_clock.json"
+hash = "c8bfc41070db8766713bcecff6cb221129cdb5bae723601ae1535e5adef0e63e"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/deployer.json"
+hash = "b8e86f13b8d30c5ac757a5e48f782b8e164a69d2b1ce64a3d4cac818a622cc66"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/depot.json"
+hash = "8839c9c28fb3bbbe6a4b3c42413a440af41122b9461fd8b2421a17e0392233d0"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/display_board.json"
+hash = "524a847466e69b7503eb04b7b8f9ad9d10f23ce2594d838f030c7ae2d28eb82d"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/display_link.json"
+hash = "7678067f64975717871693abeb533dac762a2e69aa784561e1e0e6e5005a5059"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/elevator_pulley.json"
+hash = "0ce75efce0a028bc5d9e76de904972ee01b94f58a75b89e1ca627da968c6b418"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/empty_blaze_burner.json"
+hash = "2b4f1b6288e1078af7321246b7ee5395315dcd4193c37eaefb43c8c3922bb61a"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/encased_chain_drive.json"
+hash = "d44543116e2596e6e9f7326bb4bb14c3cc57bc7c90e163a91575d2e9a11313b2"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/encased_fan.json"
+hash = "2e6d1bd833d0963eb18086ad30606ec1f25324f8e68de3f595fc10fb4fc79f53"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/factory_gauge.json"
+hash = "ac0f4c66aa5358b6970c140dc111c235b3a5a5805c156549b0c8c9e9b3fc56cd"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/fluid_pipe.json"
+hash = "ddd74123efcec973c87f8c3f03576314660c781e7c1e0d17d7c50e69786765da"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/fluid_tank.json"
+hash = "b971f73bb72502c91a1f9401120bf9f452e93ad6cc4188b864d1a8da2ba3c984"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/fluid_valve.json"
+hash = "69bc628159555b8313331d6b9233ff27944faeadcae2675190f3aecd3b89ea93"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/flywheel.json"
+hash = "5c8a50b9971a2eba44e2d39dbbff48b10340e981240b94c6b712946abe107d41"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/gantry_carriage.json"
+hash = "025ef007b8855157af06e8c5051c852c14276e4cf686daa48a3288b1be92f52e"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/gantry_shaft.json"
+hash = "205e91be2321ce5c9845f8c32c11ec491ae1fbd3b3c46b9a6cbebabc060869cd"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/gearbox.json"
+hash = "b253426f84a05f2adf69b1f43caccf3395251c6c8d3b607e6933cf0eca538bb3"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/gearshift.json"
+hash = "e395f30905e9cf34c892db48c63917e37b2fe5116582c654d0fd3822fe38a289"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/hand_crank.json"
+hash = "68570d6acc6b950e97215338e8ce9d1a50c6b4b0a33f3f9521cc06b5a4c7cc45"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/hose_pulley.json"
+hash = "91598857c9a50e3993d7257d7d5a3424d52698e2f1303b6d143826ff1d1f5c8f"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/item_drain.json"
+hash = "fdad036520334ceb064ab9cc500ab4bd78d497ed9eb0194150a7f27e80d95abb"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/item_hatch.json"
+hash = "685392a20f594724bf01c6a2412834b3f5601e9b46e1a538df90d3eee7d8c72c"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/item_vault.json"
+hash = "6c2d3a3a0c580d280cf5df6da19ab25ed603e58ce5d68414cb038ac51f767099"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/large_water_wheel.json"
+hash = "e73587bb784a0eaa4f5412c273ce0d96baeeb3cb6f242fa469fe4bdf156843f0"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/linear_chassis.json"
+hash = "cfb6193991840c1e9217f4f54c133f850ce1655f422ef29c09293ecc5fa22b82"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/mechanical_arm.json"
+hash = "bbe82d064f754487e74a33f5a9ef5ba9284d82d6ecd5a668ca1b03c6dca107ab"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/mechanical_bearing.json"
+hash = "1b9fd1ddfd70b891ead878d713357808e01141578ddc5bc22eb60001511e2432"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/mechanical_crafter.json"
+hash = "f5bbd5864bf000d0ae5d60308fcbbdbef0b16e74b744da738c7ec8a27cfbc239"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/mechanical_drill.json"
+hash = "28d375ccb12b0b18801f701eb1c76fd8fb24c79b7565ef4f8c41988c933b4379"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/mechanical_harvester.json"
+hash = "f68d252eaccd67fc3ff9c4e90ac1af891e02d50892b8ac52dfcb9161b98c6663"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/mechanical_mixer.json"
+hash = "7eece35441ecdb15536cb3bf525bc63af0b13b5c0dd978b13bd1b2cffd927716"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/mechanical_piston.json"
+hash = "63f3c1ab68a8c82605f73c630b42cf9c179380d8a63be7fabccd4b1666897f25"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/mechanical_plough.json"
+hash = "f9148aca4ed336fee884f2e1c87a4589f8cc366121af5d67843b61dabc53be0f"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/mechanical_press.json"
+hash = "c40d1f52a4c45cb65c7422ff22eb582c2a35f7996353a034e1108d37233d7d14"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/mechanical_pump.json"
+hash = "addcd6c8ad6c6d7067c7d4a869776875c4d58253e2c5693fa0ecee95ba8a0954"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/mechanical_roller.json"
+hash = "00e37a2175a3cd001fcb56f0d808042c1e693a6a1b5361e993fb6e7f92a15390"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/mechanical_saw.json"
+hash = "96a79ba9ed7ab1feef04a0f4f97979c635efea522840f439e62a0d69dced9ca6"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/millstone.json"
+hash = "31e66f3c936529997784d07b7aed18ca5fa1aa591ec8e87603550a91ff060781"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/nozzle.json"
+hash = "86d9dcd49951ab99f990674efc44e3eec11447071cb72cb333a062eb9c40bbdc"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/package_frogport.json"
+hash = "8b94b00f1968637874a9e449e750943a7a8faa29aaea8a5281f5aa1a894531fc"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/packager.json"
+hash = "882666ee4f69414b585988cc89a05456dd9bf974d42e1804167470a21bb648d3"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/portable_fluid_interface.json"
+hash = "8c166465f38e3414326b478e388ded60155f995a9e67b229f158748fdb114370"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/portable_storage_interface.json"
+hash = "d61e11b9a508110a64bc454ac63321699e0776e32c1161a5f341500ee8a50004"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/postboxes.json"
+hash = "1f81cf530c048beeb6a87eaf820d2036093b35b2162ed45eb181fb3208663b8e"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/radial_chassis.json"
+hash = "d9146783f87d79834b40b16ede89d9882ff25958ab8a1e7cfdf759c8e97b227a"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/redstone_contact.json"
+hash = "fb4f3d35b046a25284f6f4893dc2c038b32cac3a29af8238fbafef07f3817521"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/redstone_requester.json"
+hash = "b390c7bf8aa17c94c6dd21623a1075343fd6e4f5c738edd8fa3adfe36473c917"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/repackager.json"
+hash = "38b5e1f1a3ef137387c712e97f5e1777aa855e8db12d59860f1367394e9a8fe2"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/rope_pulley.json"
+hash = "028292a673e70abaf2effd2421af613e48e1a6f17ef6cc10378b6756e24f4a8e"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/rotation_speed_controller.json"
+hash = "ac804f02b32363d725738be34292bf41ce26f2f26c9ca33a7a62dede9cf7ee63"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/sail_frame.json"
+hash = "5b1aee7245466a0abedb8313c9cb6111fc583dd8c4a6c70d14c92873979691eb"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/secondary_linear_chassis.json"
+hash = "cf41ea3109b59c2dd9e26d97ba5464653b916b6c2b70aac397afab337e62fb8d"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/sequenced_gearshift.json"
+hash = "b51c6177c052451fe58537f196b053e0caf6a17d1ede3e1bda21853938f2daf1"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/smart_chute.json"
+hash = "f4fe94eacfdd980a224cd79ff0754d756fc61b7c8080ea87867dd29af233d057"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/smart_fluid_pipe.json"
+hash = "7380f79514d3b593221564234ce531ff0c4611733542921d4bc21b85e03bfe48"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/speedometer.json"
+hash = "0098c9eefbb5a7ca26b52a8e8bbb586ee390094cd94bc0b7e36ac7484912d28c"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/spout.json"
+hash = "4c320245d17a978e35b34db84290f5bb043f1035bdb13f86767f9890ee856426"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/steam_engine.json"
+hash = "135f37b5c83a171b0c760a14f712d0857e635472d17adfb939fc6b83f335465d"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/steam_whistle.json"
+hash = "75699c2eef6fc7d9e6fe78cd36bc8ed993a2c782773611184ae80fffdebb0497"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/sticker.json"
+hash = "9afbfe50a782e608634264d5cfeaeb373e51404bc8074bb02ae448c5eed4abd7"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/sticky_mechanical_piston.json"
+hash = "79ff95b685300339bb306a36e02e079aa8cbb701aded0cf0348d34b8259803b6"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/stock_link.json"
+hash = "925f4450c6e9885d6a28a5ad24e73f0b99e0c3116e91eba0bd59dcd54a6d83c4"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/stock_ticker.json"
+hash = "b312d96af1b31dd11d3bd2e1645b68f8a454d39fb8748fea9037eb20be1f00ba"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/stockpile_switch.json"
+hash = "e324a947c0e6459e2555c4cbf6aea53e670f00a8c20143054367ec2bcc43f140"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/stressometer.json"
+hash = "d284de55beefa715a1ff59a38d5eff838a2916276ca77a511983e3543e8a8fee"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/track_observer.json"
+hash = "1a57bee90963faee606f94af199b9f0b75d68d2286e3d14b2356ed7cc8c5c1c9"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/track_signal.json"
+hash = "58555159f39c142e4a92c839936aea6f1be1d00c7ae6522b88513e81fbfce8db"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/track_station.json"
+hash = "3a938bfd5f27c372e71202487b96fe41703449044fcc6d989e135bc144388782"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/turntable.json"
+hash = "66b089fd8d5950b10c314c98ed102c3d580e48fb94f98b244faaf43f9806940d"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/valve_handles.json"
+hash = "979f4655d66bdea7d2f293fdbe8bde9a3f1539ae968f128e518b0763b8503b8f"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/vertical_gearbox.json"
+hash = "560d89986613b1dec8a89a106e09c080329dada2ccc5205db2c971834523f3a8"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/water_wheel.json"
+hash = "41e7d3a09f722e9fb24ed4116ece7ac50ff62ac22d8f2405244820ca22512d10"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/weighted_ejector.json"
+hash = "a62f776e7ed48f5d90d46944fc098baad6e18981a7a47be113c1d6beb8b9a94b"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/white_sail.json"
+hash = "f701c9d1896e97c215d49f97be3ec1518463eec6d6163303d684deb500834d4b"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/createrecycled/recipe/crushing/windmill_bearing.json"
+hash = "afeb7695428ab3516a37c7d6973bc80f2fd3822dab25227d9fa5cb980ae4c9ea"
 
 [[files]]
 file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/farmersdelight/recipe/cake_from_milk_bottle.json"
@@ -982,11 +1362,11 @@ hash = "3a7346e42dfd1da4892c6987ba163d7a75de8154fb41669c92778bfbb7fec6f0"
 
 [[files]]
 file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/tags/function/load.json"
-hash = "290c439c51f791dd182f86eb2dd2dd887d559d9c8bc74403129f69c3f9c5333f"
+hash = "49c60d66a38d829c761fba7f507090ea50b16120c03ade5dccad7ab0d1eace9d"
 
 [[files]]
 file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/tags/function/tick.json"
-hash = "fc424e35781af322e655807be390efb39f4a4e4d6fcf613bd2714dfafb56ec5e"
+hash = "c693f61ccbf00c9c22507dafa7c97d653c3742cc233d44c503dc37cd2d5285da"
 
 [[files]]
 file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/tags/item/creeper_igniters.json"
@@ -1077,6 +1457,14 @@ file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldg
 hash = "884bd48a5865acfeb91fd5bf9fa793b1dbe7563ffbb24bd3b58a97dad0ae0565"
 
 [[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_andesite_lower.json"
+hash = "4895497c703756bc8e4395572a5aa15ecdfa17a56b6b37b7203073fc4749ff0b"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_andesite_upper.json"
+hash = "2f4d589e9937da3ae807f2fa7738239d54aac6f3e4aca14bbcefba90f101f3a5"
+
+[[files]]
 file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_coal_lower.json"
 hash = "bf8d0c97cf9c0ccc0db8a667f12b693367970eeb83cf970ccad1624eb0fdf41f"
 
@@ -1109,6 +1497,14 @@ file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldg
 hash = "87ce2dc239809b3903928ee69c43885e17dec9c3a009e272fa23393f8f765b7d"
 
 [[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_diorite_lower.json"
+hash = "aec1ef86854864592567397e6af031900b776d25b9aadca9de51b9a57399a7a6"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_diorite_upper.json"
+hash = "33c7e27566568c260a6334253b1ee5d51140d7be9b24f93ad8ae35f070a20427"
+
+[[files]]
 file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_emerald.json"
 hash = "cf452524e74f2ed470306468d51c4b2045f7a5a1bf1b4087c8301e71111370e4"
 
@@ -1131,6 +1527,14 @@ hash = "7e8faa25f887ef11a022f1cdddffd850a42b1615e535065a7cb15f02bbe00306"
 [[files]]
 file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_gold_nether.json"
 hash = "895ba4e0b4d3021271070ec0c555ab490072ee7c3d88439f650867b0df91345e"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_granite_lower.json"
+hash = "b264e88f1400aa279f81b7488dca8ee9eb8508f37dece94ccb44a4ac1210c624"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_granite_upper.json"
+hash = "643a2da0cb38f5e23bfcef77fa1d308a6378ae310cc92543d00bdfd7c44718ea"
 
 [[files]]
 file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/minecraft/worldgen/placed_feature/ore_iron_middle.json"
@@ -1885,6 +2289,26 @@ file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/wither_rework/ta
 hash = "03e02410c02ae0f4c88b2a872f92b8e3e8bc7d19ee96155a538ea4b1d61d3a48"
 
 [[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/zombies_slow/advancement/zombie_hit.json"
+hash = "1f9fa5f671c6c78a80b858a1c0acfad8ed1a115eb8dc1ccc714c4fc049d69d49"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/zombies_slow/function/countdown.mcfunction"
+hash = "614a2371d015fc233bb0ba555a1eb6b94af3dfd50c5fe16219103be3c984d597"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/zombies_slow/function/load.mcfunction"
+hash = "916df6f3431f50f6c1b6adb95def3b2e914af700814fe5e51d7a5ddd8b4ea645"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/zombies_slow/function/tick.mcfunction"
+hash = "d1eba39c8ed6c83131e6ed308a13ab6a46fecdbeeba7ad6e74709e8692924162"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/zombies_slow/function/zombie_hit.mcfunction"
+hash = "b18817b5ffe3eacb9569510c4edaef0ed2693aa63b870656388a967840a18f29"
+
+[[files]]
 file = "config/paxi/datapacks/C4+ [consolidated data pack]/pack.mcmeta"
 hash = "eda6f347f10a1d68a69ec2423eaf144494561c7cb9e91810b76338e88a3a9de8"
 
@@ -1894,7 +2318,39 @@ hash = "a3d16da05858bcfab578999504ef3432c55d11c0dd79ab6f9746d1d6cc22d7e9"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+hash = "c3de5a16f381659678fba04912940f6b3d6aff5fc06de6e4f07ad5aefbedd129"
+
+[[files]]
+file = "config/paxi/resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip"
+hash = "c433f3d831e86faa956836bf327ca00151bd813d1a8ab36aa064d518a58790f7"
+
+[[files]]
+file = "config/paxi/resourcepacks/FA+All_Extensions-v1.8.1.zip"
+hash = "420ad586300bb4164ff441460ae0d1b2be68933cfd9321746fcef173c0437015"
+
+[[files]]
+file = "config/paxi/resourcepacks/FA+Emissive-v1.6.zip"
+hash = "4da38e4f1580da77e308a551b5bb3bf9d8926c14fd0b4bb9275c90f9c3f6b609"
+
+[[files]]
+file = "config/paxi/resourcepacks/FreshAnimations_v1.10.4.zip"
+hash = "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2"
+
+[[files]]
+file = "config/paxi/resourcepacks/GUIRevision_2.2.0.zip"
+hash = "a2bb3e1ff96ddf191532f9fcc7a52cf9b50b2d6a605017f9cc5f33ad06733dab"
+
+[[files]]
+file = "config/paxi/resourcepacks/HEVI FreshAni Activator.zip"
+hash = "b837df3ec4ac14855601932a601dda956a7f7ea70b0971448fca5afc4bbbf622"
+
+[[files]]
+file = "config/paxi/resourcepacks/HumanEraVillagersIllagers[3.91.3].zip"
+hash = "9eec023fb913081d07f2f4a342e203b50f661336be6827021925aeb6b815be77"
+
+[[files]]
+file = "config/paxi/resourcepacks/ProgrammerArtFix-26.0.zip"
+hash = "2089be7692d441edd71f2f2d295f7d7a22ccb1e41a1c596edf8a4b0b4168cb26"
 
 [[files]]
 file = "config/phantasm.json"
@@ -1927,6 +2383,10 @@ hash = "cb0af90a705f48886a1c4ec970dfeb70e91d6961f561b5f1d5a31f5e0cc1edd5"
 [[files]]
 file = "config/railways-server.toml"
 hash = "01d1370950239d1a78d2b166652e0ad7dce25d9e89e46565edc3021bec71e206"
+
+[[files]]
+file = "config/resourceful-config-web.json"
+hash = "da04ce428fffb52f264f5f1f111385cc0a735d4eb8bb5844f7b5d49684ca5b40"
 
 [[files]]
 file = "config/ritchiesprojectilelib-server.toml"
@@ -1995,6 +2455,18 @@ hash = "2110e1e15126f52c703d2fc99865e23e80419d95e7757fca992eb95080db5b18"
 [[files]]
 file = "config/sodiumdynamiclights-client.toml"
 hash = "d8ebc5a26f6f4fc0d27c3746a3aa6ec8d2652873bd3cec6f254be1628f0472f7"
+
+[[files]]
+file = "config/structure_layout_optimizer.jsonc"
+hash = "f444999dd9a66b3fa806be94421bb7fe82fd898f91f3bf29a4aaab4e8f5cd95f"
+
+[[files]]
+file = "config/structurify.json"
+hash = "410bf2e1ad857b7c7e9c188d44459b501bcae9296f4426557dc3f72d8c534e10"
+
+[[files]]
+file = "config/structurify/structurify_backup_2026-05-07_23-25-47.json"
+hash = "db03a71dd9990df46966c792c1970b5ace9a5ba07fb3349781dfe6fcec9e60cf"
 
 [[files]]
 file = "config/subtle_effects/blocks.toml"
@@ -2155,6 +2627,10 @@ hash = "543e09f71cda1d97d238ac4150e43e50868cf781027c88d68fc714f261d88982"
 [[files]]
 file = "config/watut-server.toml"
 hash = "77c32650cc543180e5d03cf079956b631da769ef0c845cc75f34d95718be91f3"
+
+[[files]]
+file = "config/weightless.json"
+hash = "3f281b6c3f2b4f82979083d6e7cccccee0ba93d3f82649992c6140dfcefdaa2e"
 
 [[files]]
 file = "config/whitenoise-client.toml"
@@ -2450,6 +2926,11 @@ hash = "2acfb5ef4452508a69d1e1054fb318ce6df1f16afbbca396b8dc3199b4ba9ac6"
 metafile = true
 
 [[files]]
+file = "mods/f708-gun-mod.pw.toml"
+hash = "9d300fd7a7393c064af908cf7ff41b81a297227915dfb2fde847ad22789e163a"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "8df2e6a30e0d24b7d3f48ba777241dfe2a7479323ec03be2a09fd816666b77f2"
 metafile = true
@@ -2640,6 +3121,11 @@ hash = "18dae8eb1bdb5c8c7f858b1569dfe1cd2a48812b5db18f05ed04e7ba9d4599ef"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
+metafile = true
+
+[[files]]
 file = "mods/packwiz-modpack-loader.pw.toml"
 hash = "1b5880345586561b0bccd2186bc06ca19b9c04e8cd7d73a560411a334abeb9ec"
 metafile = true
@@ -2677,6 +3163,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "6a48780ffd4bc3b941f81232c84034aba5ff7645ea635c604de6df71e6596bb3"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
 metafile = true
 
 [[files]]
@@ -2765,6 +3256,16 @@ hash = "4acd1fcb2aff2eebf7299268de7eb74af055d50918d9202fcb4a2522512fb2a4"
 metafile = true
 
 [[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "27fbafdc78a4a3cb8badb58078ec1f2837e65a5bbe5160e344b0fb3e779c9efe"
+metafile = true
+
+[[files]]
+file = "mods/structurify.pw.toml"
+hash = "dc998dc760e44edef3c2f787affcfb3d15ae64add531bb1a97f29ee25560ce65"
+metafile = true
+
+[[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "29b33bd2ee22f33878ca019f4866144ab2ca5b2f965c9f12706ad5ad206281ae"
 metafile = true
@@ -2836,7 +3337,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
+hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]

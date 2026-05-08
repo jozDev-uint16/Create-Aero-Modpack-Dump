@@ -1,0 +1,18 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:chute"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "count": 2,
+            "id": "create:iron_sheet"
+        },
+        {
+            "id": "minecraft:iron_ingot"
+        }
+    ]
+}

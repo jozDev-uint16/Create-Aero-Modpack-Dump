@@ -1,0 +1,18 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:empty_blaze_burner"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "count": 4,
+            "id": "create:iron_sheet"
+        },
+        {
+            "id": "minecraft:netherrack"
+        }
+    ]
+}

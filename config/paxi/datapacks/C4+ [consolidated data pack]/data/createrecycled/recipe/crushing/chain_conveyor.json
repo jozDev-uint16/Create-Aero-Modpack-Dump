@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:chain_conveyor"
+        }
+    ],
+    "processing_time": 350,
+    "results": [
+        {
+            "count": 2,
+            "id": "create:andesite_casing"
+        },
+        {
+            "chance": 0.5,
+            "id": "create:large_cogwheel"
+        }
+    ]
+}
