@@ -1,0 +1,13 @@
+name = "Survival Fire Sticks (Wooden Flint and Steel)"
+filename = "FireSticks+V.1.1+[1.21.1][NEOFORGE].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f157eee457c3b4a5dccfd24a4e9fbcae4b96201f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6963752
+project-id = 710998

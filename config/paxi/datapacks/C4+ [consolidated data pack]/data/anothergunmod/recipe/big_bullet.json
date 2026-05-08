@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "equipment",
+	"ingredients": [
+		{
+			"item": "createbigcannons:machine_gun_round"
+		}
+	],
+	"result": {
+    "count": 1,
+    "id": "anothergunmod:big_bullet"
+  }
+}

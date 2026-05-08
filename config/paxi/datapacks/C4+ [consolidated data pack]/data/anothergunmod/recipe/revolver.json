@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "anothergunmod:auto_loader"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "L": {
+      "tag": "c:stripped_logs"
+    },
+    "T": {
+      "item": "anothergunmod:tube"
+    }
+  },
+  "pattern": [
+    "T  ",
+    "III",
+    " AL"
+  ],
+  "result": {
+    "count": 1,
+    "id": "anothergunmod:revolver"
+  }
+}

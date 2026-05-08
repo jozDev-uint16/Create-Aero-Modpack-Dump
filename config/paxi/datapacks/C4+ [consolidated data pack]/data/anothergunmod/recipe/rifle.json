@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "anothergunmod:auto_loader"
+    },
+    "B": {
+      "item": "minecraft:iron_block"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "L": {
+      "tag": "c:stripped_logs"
+    },
+    "R": {
+      "item": "minecraft:lever"
+    },
+    "T": {
+      "item": "anothergunmod:tube"
+    }
+  },
+  "pattern": [
+    "TI ",
+    "LAB",
+    " RL"
+  ],
+  "result": {
+    "count": 1,
+    "id": "anothergunmod:rifle"
+  }
+}

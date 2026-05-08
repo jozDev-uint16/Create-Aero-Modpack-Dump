@@ -1,0 +1,11 @@
+{
+  "values": [
+    "#c:glass_blocks",
+    "#c:glass_panes",
+    "minecraft:redstone_lamp",
+    "minecraft:glowstone",
+    "minecraft:lantern",
+    "minecraft:soul_lantern",
+    "minecraft:decorated_pot"
+  ]
+}

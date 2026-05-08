@@ -641,6 +641,98 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/anothergunmod/recipe/auto_gun.json"
+hash = "e699c8c0e9e0b64d816a67e37c48bad0229c02414a1a3f02abb1df3166151da6"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/anothergunmod/recipe/auto_loader.json"
+hash = "a78741a8069834ba530f05f8d5a4ae3f5b40b59167e39983ad41f9fd138e6846"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/anothergunmod/recipe/big_bullet.json"
+hash = "fc163f894512f1f0fa55303f9f00cd2ebec2a1ec7bdaff24310bc810bd2979f0"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/anothergunmod/recipe/big_magazine.json"
+hash = "921309959a546ed9e241b2bc9ae833a860eedf0d492893365c596ddeb5660ddf"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/anothergunmod/recipe/flame_thrower.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/anothergunmod/recipe/machine_gun.json"
+hash = "552f6141ad0d7592bf4dbaa9fb21344eeaf7d4dd2103c8e10c0e70e65c5023b2"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/anothergunmod/recipe/repair_kit.json"
+hash = "8b60fc2998d906cbbdc9b3c6e2bfc6adef5748d9492063252ea46e16dea7da4d"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/anothergunmod/recipe/revolver.json"
+hash = "a0d026eed990f65986f5e0b7ebe1f1533f889dc79fd708e12b7d603a4e2c16e4"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/anothergunmod/recipe/rifle.json"
+hash = "b42383a5571f0ce4b5a8a1bcbad6eafb8310db93cf8c23ebae1b3fc6a7de5033"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/anothergunmod/recipe/rifle_spyglass.json"
+hash = "c7e4820be1c2f810d6ef9b5ac4f470e92c2db74eeffb5b246f3665f63a1789ed"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/anothergunmod/recipe/shell.json"
+hash = "b94ed9de60b161690b2ccdeaa2f1617fa907670878a0e8301fcff2c5156104f2"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/anothergunmod/recipe/shotgun.json"
+hash = "c6182bd07bd7f4f0c13d63b5e2d044937f0eea7694b08a2e77f750e1c98d23f2"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/anothergunmod/recipe/small_bullet.json"
+hash = "0fbff1e3f4a993c5b6f7c4fcc8b2cb48b5651c0566dc9f6f9d6795aabb7988ea"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/anothergunmod/recipe/small_magazine.json"
+hash = "ee70587f6f79044edc5063dfbc1045670a1abed1d304de5d952f1fd89fbf3671"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/anothergunmod/recipe/tube.json"
+hash = "3f612dfe9e725e5031fd46803d02f6e9c3b9c2923b701c6676c24129f6a5cc15"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/anothergunmod/stat_override/auto_gun.json"
+hash = "0ece8fd516ce9bdb9f1c2908742037ddc1a9cfe23381432f071935f2f97c23e6"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/anothergunmod/stat_override/machine_gun.json"
+hash = "0ece8fd516ce9bdb9f1c2908742037ddc1a9cfe23381432f071935f2f97c23e6"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/anothergunmod/stat_override/revolver.json"
+hash = "f5dc9ad05342f3050af7ddbf4eaaf9140c77be02b16b77c8e53f8f9fe229ba7a"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/anothergunmod/stat_override/rifle.json"
+hash = "c12800858263f5e5709d994ae1e66b0fb339e1dee89d3fdbf005c446d6dff8b3"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/anothergunmod/stat_override/rifle_spyglass.json"
+hash = "aa180fd11350fc9a91fc2766bb7980042e34522763320a0835df4dc1e6b9e00f"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/anothergunmod/stat_override/shotgun.json"
+hash = "2db9483d1ba7a1a79a6203f27d90b9c2af0355308f23d96d88c6281cf9fbca11"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/anothergunmod/tags/block/brekable_with_bullet.json"
+hash = "6d1f66ad93aec837aa8f5efe0f3e7424ec59e72143a1100e7ca7fdb6e38cd6ad"
+
+[[files]]
+file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/anothergunmod/tags/item/repair_kit.json"
+hash = "f8b2d4d4f4ab74196c05d06b839eca8e1f8583e1375bbf8f036b4037a0c8787e"
+
+[[files]]
 file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/beec/recipe/ender_eye_craft_new.json"
 hash = "88c849e6d54074988fce1ac414b940ef782067e83ef4c99c7551269f85188dc6"
 
@@ -658,7 +750,7 @@ hash = "82bd20ca95bc8fe85684d662fe79e27e513e9f21fc95e2b3dd1fbe7aed798a01"
 
 [[files]]
 file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/c/tags/item/tools/igniter.json"
-hash = "58b695365f4e9ff8e0ba291108496ec27198b5038df7c0c5b5bf000eefb2acbf"
+hash = "a20663b421ca22d689e9066a7b54d826b5bd1408eabee94147a46f2149dd8bee"
 
 [[files]]
 file = "config/paxi/datapacks/C4+ [consolidated data pack]/data/create/recipe/brass_ingot_from_lava.json"
@@ -3211,11 +3303,6 @@ hash = "96e5c52b0fafd54183e29b3ab1d8df8f1e09a46045afe0d35d19274c07c59d80"
 metafile = true
 
 [[files]]
-file = "mods/short-circuit.pw.toml"
-hash = "cb5634e10d4bfb1da7cd5ae9401b48d122cf9c2510d59cc8b7ad37d482e814c8"
-metafile = true
-
-[[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "442ea4d2312dd58741a7c1ce1f6ae0514cc528fb0b06e7268807d46b0720d6d9"
 metafile = true
@@ -3273,6 +3360,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "2e42245826ce70d4ad673addb0e5244da388841f1484f03ee5a9426ee33b2229"
+metafile = true
+
+[[files]]
+file = "mods/survival-firestick-wooden-flint-and-steel.pw.toml"
+hash = "1d620a740a0eb693d3cf34c2b6e9dda2e72ad031d63fc847081c6d014fde6b33"
 metafile = true
 
 [[files]]

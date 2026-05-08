@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "G": {
+      "item": "create:cardboard"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "P": {
+      "item": "create:brass_sheet"
+    },
+    "R": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "pattern": [
+    " II",
+    "GII",
+    "RP "
+  ],
+  "result": {
+    "count": 2,
+    "id": "anothergunmod:shell"
+  }
+}

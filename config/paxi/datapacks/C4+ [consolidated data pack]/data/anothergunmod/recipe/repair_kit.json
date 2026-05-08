@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "anothergunmod:auto_loader"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:lapis_block"
+    },
+    "T": {
+      "item": "anothergunmod:tube"
+    }
+  },
+  "pattern": [
+    "ITI",
+    "IRI",
+    "IAI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "anothergunmod:repair_kit"
+  }
+}

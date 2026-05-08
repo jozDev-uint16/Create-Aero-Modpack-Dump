@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "create:copper_sheet",
+      "count": 8
+    },
+    "G": {
+      "item": "minecraft:gunpowder"
+    },
+    "P": {
+      "item": "create:brass_sheet"
+    }
+  },
+  "pattern": [
+    "C",
+    "G",
+    "P"
+  ],
+  "result": {
+    "count": 8,
+    "id": "anothergunmod:small_bullet"
+  }
+}
